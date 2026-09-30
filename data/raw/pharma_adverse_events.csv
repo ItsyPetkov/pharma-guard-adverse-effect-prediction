@@ -1,0 +1,1001 @@
+report_id,report_date,patient_age,patient_sex,patient_weight_kg,drug_class,route_of_administration,daily_dose_mg,treatment_duration_days,concomitant_drug_count,interaction_risk_index,renal_impairment_flag,hepatic_impairment_flag,reporting_source,time_to_onset_days,serious_adverse_event
+FDA-AER-1000001,2024-03-01,42,Male,66.1,Cardiovascular,Subcutaneous,136.3,52,5,0.6,0,0,Pharmacist,18,1
+FDA-AER-1000002,2024-03-01,44,Male,86.6,Antibiotic,Intravenous,131.6,28,1,0.46,1,0,Physician,28,0
+FDA-AER-1000003,2024-03-01,44,Male,67.8,Analgesic,Oral,61.2,58,3,0.41,1,0,Consumer,9,0
+FDA-AER-1000004,2024-03-01,83,Male,96.6,Antibiotic,Subcutaneous,232.8,93,6,0.82,0,0,Consumer,23,1
+FDA-AER-1000005,2024-03-01,49,Male,71.3,Immunosuppressant,Subcutaneous,560.7,58,6,0.81,0,0,Pharmacist,25,1
+FDA-AER-1000006,2024-03-01,57,Male,74.7,CNS / Neurological,Subcutaneous,402.4,65,4,0.53,0,0,Pharmacist,19,0
+FDA-AER-1000007,2024-03-01,64,Male,75.7,Cardiovascular,Oral,449.9,87,0,0.76,1,0,Consumer,24,0
+FDA-AER-1000008,2024-03-01,24,Male,89.3,CNS / Neurological,Subcutaneous,568.2,110,3,0.61,0,0,Physician,15,1
+FDA-AER-1000009,2024-03-01,42,Male,85.6,Cardiovascular,Oral,182.1,47,3,0.2,0,0,Consumer,29,0
+FDA-AER-1000010,2024-03-01,65,Male,99.0,Cardiovascular,Subcutaneous,261.1,42,0,0.12,0,0,Consumer,26,0
+FDA-AER-1000011,2024-03-01,85,Male,94.6,Cardiovascular,Subcutaneous,77.9,114,6,0.95,0,0,Pharmacist,20,1
+FDA-AER-1000012,2024-03-01,32,Female,74.2,Antibiotic,Subcutaneous,201.3,63,0,0.2,0,0,Consumer,14,0
+FDA-AER-1000013,2024-03-01,83,Male,91.2,Antibiotic,Subcutaneous,128.5,113,4,0.82,0,0,Pharmacist,25,1
+FDA-AER-1000014,2024-03-01,23,Male,82.9,CNS / Neurological,Intravenous,228.4,25,7,0.44,1,0,Pharmacist,12,1
+FDA-AER-1000015,2024-03-01,44,Male,77.6,Oncology,Subcutaneous,184.5,105,6,0.89,1,0,Consumer,20,1
+FDA-AER-1000016,2024-03-01,64,Female,96.7,Analgesic,Intravenous,300.5,102,4,0.13,0,0,Pharmacist,8,1
+FDA-AER-1000017,2024-03-01,44,Male,64.4,Analgesic,Intravenous,427.8,86,8,0.11,0,0,Physician,14,0
+FDA-AER-1000018,2024-03-01,53,Female,82.7,Oncology,Intravenous,175.3,40,2,0.7,1,1,Physician,19,0
+FDA-AER-1000019,2024-03-01,76,Female,83.3,Cardiovascular,Subcutaneous,158.6,26,4,0.59,0,0,Physician,14,1
+FDA-AER-1000020,2024-03-01,80,Male,88.1,Oncology,Subcutaneous,87.5,7,3,0.24,1,0,Physician,19,1
+FDA-AER-1000021,2024-03-01,42,Female,73.3,Analgesic,Oral,480.8,28,5,0.87,0,0,Pharmacist,20,0
+FDA-AER-1000022,2024-03-01,54,Male,54.7,Oncology,Intravenous,522.2,45,5,0.72,0,0,Physician,18,1
+FDA-AER-1000023,2024-03-01,45,Male,97.2,Analgesic,Oral,524.8,29,1,0.86,0,0,Consumer,27,0
+FDA-AER-1000024,2024-03-01,63,Female,90.4,Oncology,Intravenous,244.3,26,5,0.99,0,0,Consumer,15,0
+FDA-AER-1000025,2024-03-01,43,Female,64.3,CNS / Neurological,Subcutaneous,135.4,49,4,0.77,0,0,Physician,12,0
+FDA-AER-1000026,2024-03-01,64,Male,67.3,Analgesic,Intravenous,284.9,103,5,0.36,0,0,Pharmacist,2,1
+FDA-AER-1000027,2024-03-01,61,Female,59.0,Oncology,Oral,580.4,64,2,0.05,1,0,Consumer,13,0
+FDA-AER-1000028,2024-03-01,55,Female,93.0,Antibiotic,Subcutaneous,236.7,32,7,0.56,0,0,Physician,11,1
+FDA-AER-1000029,2024-03-01,24,Female,106.8,CNS / Neurological,Intravenous,143.3,65,1,0.85,0,0,Consumer,30,0
+FDA-AER-1000030,2024-03-01,19,Male,72.4,Cardiovascular,Intravenous,401.0,21,5,0.0,0,0,Consumer,18,1
+FDA-AER-1000031,2024-03-01,33,Male,107.0,Immunosuppressant,Oral,226.9,15,7,0.43,0,1,Pharmacist,17,1
+FDA-AER-1000032,2024-03-01,73,Male,69.0,Antibiotic,Oral,423.2,117,7,0.46,0,0,Physician,13,1
+FDA-AER-1000033,2024-03-01,37,Male,80.0,Antibiotic,Subcutaneous,595.9,16,5,0.42,0,0,Pharmacist,27,1
+FDA-AER-1000034,2024-03-01,71,Female,98.1,Oncology,Intravenous,538.7,18,2,0.98,0,0,Consumer,2,1
+FDA-AER-1000035,2024-03-01,24,Female,59.6,Immunosuppressant,Oral,564.6,41,4,0.8,0,0,Consumer,23,0
+FDA-AER-1000036,2024-03-01,19,Female,71.9,Analgesic,Intravenous,440.5,46,4,0.1,0,0,Consumer,14,0
+FDA-AER-1000037,2024-03-01,45,Male,107.5,Analgesic,Intravenous,293.6,82,1,0.9,0,0,Physician,29,0
+FDA-AER-1000038,2024-03-01,36,Female,107.5,Antibiotic,Oral,200.3,119,6,0.07,0,0,Pharmacist,1,1
+FDA-AER-1000039,2024-03-01,79,Male,62.3,Immunosuppressant,Subcutaneous,306.1,105,1,0.22,0,0,Consumer,27,1
+FDA-AER-1000040,2024-03-01,72,Male,99.8,Analgesic,Subcutaneous,487.6,30,3,0.17,0,1,Pharmacist,30,0
+FDA-AER-1000041,2024-03-01,40,Male,75.5,Oncology,Subcutaneous,441.8,96,0,0.72,0,0,Consumer,13,0
+FDA-AER-1000042,2024-03-01,68,Male,84.7,Antibiotic,Subcutaneous,316.3,72,1,0.38,0,0,Physician,27,1
+FDA-AER-1000043,2024-03-01,80,Male,79.8,CNS / Neurological,Oral,315.5,73,6,0.4,0,0,Consumer,23,0
+FDA-AER-1000044,2024-03-01,60,Male,98.1,Cardiovascular,Oral,47.3,16,6,0.42,0,0,Physician,8,0
+FDA-AER-1000045,2024-03-01,83,Male,56.7,CNS / Neurological,Intravenous,168.3,70,7,0.45,0,0,Pharmacist,5,1
+FDA-AER-1000046,2024-03-01,26,Male,93.7,Cardiovascular,Intravenous,278.4,41,3,0.01,1,0,Pharmacist,24,0
+FDA-AER-1000047,2024-03-01,53,Male,88.9,Oncology,Subcutaneous,182.6,42,7,0.95,0,0,Consumer,27,0
+FDA-AER-1000048,2024-03-01,28,Female,83.3,Analgesic,Intravenous,568.9,104,6,0.88,0,0,Consumer,7,1
+FDA-AER-1000049,2024-03-01,67,Male,97.5,Immunosuppressant,Subcutaneous,310.1,89,2,0.95,0,0,Physician,18,1
+FDA-AER-1000050,2024-03-01,85,Female,106.2,Immunosuppressant,Subcutaneous,228.3,101,3,0.01,0,0,Pharmacist,19,1
+FDA-AER-1000051,2024-03-01,55,Female,87.5,Cardiovascular,Subcutaneous,160.0,110,0,0.34,0,0,Physician,21,0
+FDA-AER-1000052,2024-03-01,65,Male,85.2,Immunosuppressant,Subcutaneous,377.2,114,5,0.37,0,0,Pharmacist,8,1
+FDA-AER-1000053,2024-03-01,55,Female,63.7,Oncology,Subcutaneous,498.5,98,5,0.42,0,0,Pharmacist,8,1
+FDA-AER-1000054,2024-03-01,52,Male,65.9,Cardiovascular,Oral,176.5,16,1,0.59,0,0,Physician,13,0
+FDA-AER-1000055,2024-03-01,34,Female,85.5,Oncology,Subcutaneous,376.4,45,8,0.63,0,0,Physician,16,0
+FDA-AER-1000056,2024-03-01,85,Female,86.5,CNS / Neurological,Intravenous,425.5,116,8,0.46,0,0,Physician,30,1
+FDA-AER-1000057,2024-03-01,72,Female,61.4,CNS / Neurological,Subcutaneous,60.5,6,1,0.54,1,0,Pharmacist,21,1
+FDA-AER-1000058,2024-03-01,27,Female,84.8,CNS / Neurological,Oral,529.8,16,3,0.43,0,0,Consumer,12,0
+FDA-AER-1000059,2024-03-01,59,Female,103.8,Cardiovascular,Intravenous,452.0,117,4,0.2,0,0,Physician,19,0
+FDA-AER-1000060,2024-03-01,21,Male,53.5,CNS / Neurological,Oral,314.0,54,4,0.29,0,0,Consumer,2,1
+FDA-AER-1000061,2024-03-01,46,Male,93.6,Analgesic,Intravenous,175.1,6,8,0.93,0,0,Pharmacist,30,1
+FDA-AER-1000062,2024-03-01,42,Male,103.8,Immunosuppressant,Oral,194.8,89,0,0.15,0,0,Physician,17,0
+FDA-AER-1000063,2024-03-01,56,Male,54.0,Oncology,Intravenous,75.4,69,8,0.71,1,0,Pharmacist,18,0
+FDA-AER-1000064,2024-03-01,32,Male,108.1,Analgesic,Intravenous,146.8,51,8,0.92,0,0,Pharmacist,5,1
+FDA-AER-1000065,2024-03-01,83,Male,95.6,Immunosuppressant,Subcutaneous,355.5,5,3,0.58,0,0,Consumer,10,1
+FDA-AER-1000066,2024-03-01,27,Male,68.8,Analgesic,Oral,505.8,9,7,0.26,0,0,Consumer,7,1
+FDA-AER-1000067,2024-03-01,74,Male,109.6,Cardiovascular,Oral,494.3,5,6,0.73,0,0,Consumer,26,1
+FDA-AER-1000068,2024-03-01,24,Female,99.0,Analgesic,Subcutaneous,114.3,34,8,0.98,0,0,Physician,15,0
+FDA-AER-1000069,2024-03-01,41,Male,75.7,CNS / Neurological,Intravenous,331.7,83,6,0.4,0,1,Physician,22,0
+FDA-AER-1000070,2024-03-01,70,Male,85.0,CNS / Neurological,Oral,286.2,9,6,0.92,0,0,Consumer,24,1
+FDA-AER-1000071,2024-03-01,20,Male,105.9,CNS / Neurological,Subcutaneous,117.1,99,7,0.91,0,0,Pharmacist,28,1
+FDA-AER-1000072,2024-03-01,81,Male,91.9,CNS / Neurological,Subcutaneous,101.5,26,6,0.19,0,0,Consumer,21,1
+FDA-AER-1000073,2024-03-01,20,Male,59.7,Antibiotic,Subcutaneous,161.1,104,5,0.27,0,0,Pharmacist,18,1
+FDA-AER-1000074,2024-03-01,81,Female,95.4,CNS / Neurological,Subcutaneous,24.5,85,8,0.77,0,0,Consumer,1,1
+FDA-AER-1000075,2024-03-01,70,Female,100.8,Immunosuppressant,Oral,436.6,8,2,0.47,1,1,Consumer,26,0
+FDA-AER-1000076,2024-03-01,83,Male,56.1,Immunosuppressant,Subcutaneous,326.6,42,8,0.44,0,0,Pharmacist,24,0
+FDA-AER-1000077,2024-03-01,69,Female,67.9,Analgesic,Oral,495.3,102,3,0.92,0,0,Pharmacist,24,1
+FDA-AER-1000078,2024-03-01,66,Female,101.0,Oncology,Subcutaneous,134.9,10,6,0.95,0,0,Pharmacist,13,1
+FDA-AER-1000079,2024-03-01,70,Female,97.3,CNS / Neurological,Oral,36.9,94,0,0.05,0,0,Physician,28,1
+FDA-AER-1000080,2024-03-01,26,Female,53.6,CNS / Neurological,Intravenous,32.7,54,2,0.04,0,0,Consumer,26,0
+FDA-AER-1000081,2024-03-01,68,Male,90.1,CNS / Neurological,Intravenous,338.8,41,5,0.69,0,0,Physician,23,0
+FDA-AER-1000082,2024-03-01,54,Female,77.3,Oncology,Oral,451.5,97,3,0.82,0,0,Physician,21,0
+FDA-AER-1000083,2024-03-01,20,Female,57.1,Analgesic,Subcutaneous,126.0,28,2,0.29,1,0,Consumer,5,0
+FDA-AER-1000084,2024-03-01,73,Female,96.3,Analgesic,Oral,413.3,70,1,0.64,0,0,Physician,6,0
+FDA-AER-1000085,2024-03-01,65,Female,87.4,CNS / Neurological,Subcutaneous,274.2,28,7,0.2,0,1,Physician,2,1
+FDA-AER-1000086,2024-03-01,44,Female,105.0,Cardiovascular,Oral,289.6,88,6,0.01,0,0,Pharmacist,21,1
+FDA-AER-1000087,2024-03-01,41,Male,53.6,Oncology,Intravenous,525.8,6,0,0.63,0,0,Physician,28,1
+FDA-AER-1000088,2024-03-01,26,Female,105.5,Oncology,Intravenous,137.8,8,6,0.93,0,0,Physician,9,1
+FDA-AER-1000089,2024-03-01,63,Female,104.1,Cardiovascular,Intravenous,437.5,117,1,0.95,1,0,Physician,6,1
+FDA-AER-1000090,2024-03-01,31,Male,53.0,Antibiotic,Subcutaneous,195.3,39,0,0.24,0,0,Consumer,21,0
+FDA-AER-1000091,2024-03-01,28,Female,107.7,Antibiotic,Oral,297.0,45,8,0.09,1,0,Physician,10,0
+FDA-AER-1000092,2024-03-01,48,Female,76.3,CNS / Neurological,Oral,550.8,101,4,0.48,0,0,Physician,18,0
+FDA-AER-1000093,2024-03-01,65,Female,64.0,Antibiotic,Subcutaneous,335.6,33,4,0.8,0,0,Consumer,30,1
+FDA-AER-1000094,2024-03-01,80,Female,95.4,Immunosuppressant,Subcutaneous,107.0,92,1,0.22,0,0,Physician,22,0
+FDA-AER-1000095,2024-03-01,56,Male,53.9,Oncology,Subcutaneous,580.6,11,7,0.48,0,0,Physician,22,1
+FDA-AER-1000096,2024-03-01,19,Male,105.6,CNS / Neurological,Subcutaneous,413.5,84,4,0.65,0,0,Consumer,22,1
+FDA-AER-1000097,2024-03-01,39,Female,93.2,CNS / Neurological,Subcutaneous,36.4,119,0,0.94,0,1,Consumer,12,0
+FDA-AER-1000098,2024-03-01,44,Female,104.9,Analgesic,Intravenous,52.9,72,4,0.07,0,1,Pharmacist,22,0
+FDA-AER-1000099,2024-03-01,20,Male,52.2,Oncology,Subcutaneous,279.8,68,7,0.79,0,0,Physician,25,1
+FDA-AER-1000100,2024-03-01,19,Male,91.9,CNS / Neurological,Subcutaneous,461.5,87,0,0.16,0,1,Physician,25,0
+FDA-AER-1000101,2024-03-01,69,Female,77.6,CNS / Neurological,Oral,549.9,118,4,0.75,0,0,Pharmacist,19,1
+FDA-AER-1000102,2024-03-01,38,Male,79.6,Oncology,Intravenous,360.2,118,0,0.75,0,0,Physician,28,0
+FDA-AER-1000103,2024-03-01,35,Female,107.3,CNS / Neurological,Intravenous,198.1,62,6,0.3,0,0,Pharmacist,12,0
+FDA-AER-1000104,2024-03-01,71,Male,85.1,Immunosuppressant,Oral,180.3,81,4,0.65,1,1,Pharmacist,17,0
+FDA-AER-1000105,2024-03-01,57,Male,98.5,Oncology,Subcutaneous,538.1,117,0,0.57,0,0,Pharmacist,24,0
+FDA-AER-1000106,2024-03-01,50,Male,68.5,Cardiovascular,Oral,378.8,96,7,0.37,0,0,Pharmacist,16,0
+FDA-AER-1000107,2024-03-01,77,Male,89.0,CNS / Neurological,Subcutaneous,268.5,79,5,0.34,0,0,Consumer,26,1
+FDA-AER-1000108,2024-03-01,54,Female,99.7,CNS / Neurological,Intravenous,326.0,115,1,0.28,1,0,Physician,17,1
+FDA-AER-1000109,2024-03-01,43,Female,85.7,Cardiovascular,Oral,481.6,72,6,0.67,0,0,Physician,9,0
+FDA-AER-1000110,2024-03-01,80,Female,86.3,Cardiovascular,Subcutaneous,91.6,84,3,0.42,0,0,Physician,3,1
+FDA-AER-1000111,2024-03-01,37,Male,86.7,Antibiotic,Subcutaneous,278.6,69,0,0.93,0,0,Physician,10,0
+FDA-AER-1000112,2024-03-01,20,Female,63.0,Analgesic,Subcutaneous,589.9,73,4,0.45,0,0,Physician,6,1
+FDA-AER-1000113,2024-03-01,26,Female,55.0,Oncology,Oral,246.2,117,2,0.28,0,0,Pharmacist,21,0
+FDA-AER-1000114,2024-03-01,81,Male,106.9,Cardiovascular,Oral,290.3,58,2,0.32,0,0,Consumer,9,1
+FDA-AER-1000115,2024-03-01,80,Male,55.4,Cardiovascular,Oral,481.2,55,7,0.85,0,0,Physician,1,0
+FDA-AER-1000116,2024-03-01,61,Female,67.4,Antibiotic,Subcutaneous,237.1,77,8,0.83,0,0,Consumer,6,1
+FDA-AER-1000117,2024-03-01,26,Male,79.4,Cardiovascular,Oral,270.1,26,2,0.24,0,0,Pharmacist,14,0
+FDA-AER-1000118,2024-03-01,68,Male,82.8,Oncology,Oral,29.3,63,8,0.06,0,0,Physician,28,1
+FDA-AER-1000119,2024-03-01,31,Male,79.0,Immunosuppressant,Oral,200.8,99,7,0.25,0,0,Physician,28,1
+FDA-AER-1000120,2024-03-01,68,Female,63.2,Antibiotic,Oral,145.0,110,1,0.73,0,0,Pharmacist,11,0
+FDA-AER-1000121,2024-03-01,49,Male,108.4,Immunosuppressant,Oral,323.4,21,7,0.13,0,0,Physician,23,1
+FDA-AER-1000122,2024-03-01,27,Male,62.4,Oncology,Subcutaneous,557.2,95,7,0.54,1,0,Physician,24,0
+FDA-AER-1000123,2024-03-01,84,Male,92.6,Cardiovascular,Intravenous,59.7,31,4,0.09,0,0,Pharmacist,27,0
+FDA-AER-1000124,2024-03-01,67,Female,102.2,Oncology,Subcutaneous,87.3,39,4,0.27,0,0,Consumer,24,0
+FDA-AER-1000125,2024-03-01,72,Male,52.7,Oncology,Subcutaneous,384.5,80,0,0.48,0,0,Pharmacist,27,1
+FDA-AER-1000126,2024-03-01,62,Male,98.7,Oncology,Subcutaneous,498.8,112,2,0.68,1,0,Pharmacist,17,1
+FDA-AER-1000127,2024-03-01,71,Male,62.0,Analgesic,Subcutaneous,448.8,115,4,0.16,0,0,Pharmacist,27,1
+FDA-AER-1000128,2024-03-01,81,Male,78.7,Cardiovascular,Subcutaneous,160.1,102,6,0.49,0,0,Consumer,2,0
+FDA-AER-1000129,2024-03-01,73,Female,66.6,CNS / Neurological,Intravenous,290.3,87,5,0.19,0,0,Physician,22,1
+FDA-AER-1000130,2024-03-01,51,Male,50.8,Cardiovascular,Intravenous,215.9,22,7,0.66,0,0,Consumer,19,1
+FDA-AER-1000131,2024-03-01,35,Female,99.1,Oncology,Oral,357.3,84,8,0.01,0,0,Physician,22,1
+FDA-AER-1000132,2024-03-01,74,Male,60.2,Oncology,Subcutaneous,131.8,22,1,0.48,0,0,Physician,28,0
+FDA-AER-1000133,2024-03-01,62,Male,92.6,Antibiotic,Oral,494.4,75,5,0.98,0,0,Pharmacist,14,1
+FDA-AER-1000134,2024-03-01,80,Male,70.6,Analgesic,Intravenous,231.6,74,1,0.54,0,0,Physician,4,0
+FDA-AER-1000135,2024-03-01,29,Male,61.8,Antibiotic,Oral,428.7,98,4,0.95,0,1,Physician,8,1
+FDA-AER-1000136,2024-03-01,49,Male,85.9,Antibiotic,Oral,329.8,41,7,0.44,0,0,Physician,15,1
+FDA-AER-1000137,2024-03-01,75,Female,53.5,Oncology,Oral,286.8,80,6,0.91,0,0,Consumer,9,0
+FDA-AER-1000138,2024-03-01,36,Female,57.8,CNS / Neurological,Oral,572.2,63,1,0.84,0,0,Physician,30,1
+FDA-AER-1000139,2024-03-01,20,Male,109.3,Analgesic,Subcutaneous,221.1,7,3,0.28,1,0,Physician,25,0
+FDA-AER-1000140,2024-03-01,32,Female,70.6,Antibiotic,Subcutaneous,329.2,95,5,0.9,0,0,Pharmacist,26,1
+FDA-AER-1000141,2024-03-01,68,Male,109.9,Oncology,Oral,513.7,32,1,0.46,0,1,Physician,21,1
+FDA-AER-1000142,2024-03-01,69,Male,106.6,Oncology,Subcutaneous,440.0,33,8,0.92,0,0,Physician,19,1
+FDA-AER-1000143,2024-03-01,68,Female,52.3,Oncology,Subcutaneous,109.2,107,1,0.89,0,0,Consumer,15,1
+FDA-AER-1000144,2024-03-01,50,Male,66.8,Antibiotic,Intravenous,369.7,27,8,0.03,1,1,Physician,17,1
+FDA-AER-1000145,2024-03-01,83,Female,73.1,Oncology,Subcutaneous,450.1,33,1,0.76,1,0,Pharmacist,21,1
+FDA-AER-1000146,2024-03-01,79,Male,51.1,CNS / Neurological,Subcutaneous,400.2,111,2,0.03,1,0,Pharmacist,16,1
+FDA-AER-1000147,2024-03-01,47,Male,62.5,Cardiovascular,Oral,531.7,90,1,0.21,0,0,Consumer,20,0
+FDA-AER-1000148,2024-03-01,66,Male,55.4,Cardiovascular,Intravenous,576.4,99,0,0.64,0,0,Pharmacist,8,0
+FDA-AER-1000149,2024-03-01,40,Female,59.5,Analgesic,Subcutaneous,531.1,62,3,0.08,1,0,Physician,15,0
+FDA-AER-1000150,2024-03-01,56,Female,104.9,Immunosuppressant,Intravenous,470.9,10,0,0.96,0,0,Consumer,13,0
+FDA-AER-1000151,2024-03-01,47,Male,92.6,CNS / Neurological,Subcutaneous,189.8,112,8,0.73,0,0,Pharmacist,28,1
+FDA-AER-1000152,2024-03-01,68,Male,73.0,CNS / Neurological,Oral,474.4,14,2,0.01,0,1,Consumer,10,1
+FDA-AER-1000153,2024-03-01,19,Female,72.0,Cardiovascular,Subcutaneous,536.7,116,7,0.23,0,0,Physician,30,0
+FDA-AER-1000154,2024-03-01,29,Female,85.3,Immunosuppressant,Oral,27.3,65,5,0.98,0,0,Consumer,3,1
+FDA-AER-1000155,2024-03-01,54,Female,51.1,Cardiovascular,Subcutaneous,145.8,56,6,0.52,0,0,Physician,19,1
+FDA-AER-1000156,2024-03-01,27,Male,78.5,Immunosuppressant,Subcutaneous,132.3,119,8,0.82,1,0,Pharmacist,2,1
+FDA-AER-1000157,2024-03-01,23,Male,95.0,Oncology,Subcutaneous,60.9,97,0,0.92,0,0,Physician,12,0
+FDA-AER-1000158,2024-03-01,52,Male,102.9,CNS / Neurological,Subcutaneous,384.6,60,6,0.61,0,0,Physician,13,1
+FDA-AER-1000159,2024-03-01,52,Female,104.6,Antibiotic,Intravenous,376.5,16,6,0.89,0,0,Pharmacist,21,1
+FDA-AER-1000160,2024-03-01,23,Male,70.1,Analgesic,Subcutaneous,87.8,107,6,0.69,0,0,Consumer,6,0
+FDA-AER-1000161,2024-03-01,47,Female,88.6,Cardiovascular,Subcutaneous,125.6,18,6,0.07,0,0,Physician,18,0
+FDA-AER-1000162,2024-03-01,61,Female,66.7,Cardiovascular,Intravenous,485.2,91,2,0.07,0,0,Physician,4,1
+FDA-AER-1000163,2024-03-01,69,Female,93.3,CNS / Neurological,Oral,105.2,34,3,0.49,0,0,Consumer,30,1
+FDA-AER-1000164,2024-03-01,19,Female,56.3,Immunosuppressant,Intravenous,427.1,54,0,0.77,0,0,Physician,7,1
+FDA-AER-1000165,2024-03-01,82,Male,94.2,Analgesic,Subcutaneous,422.5,8,4,0.93,0,0,Physician,17,1
+FDA-AER-1000166,2024-03-01,77,Female,87.8,Antibiotic,Intravenous,56.5,47,3,0.77,0,0,Consumer,19,1
+FDA-AER-1000167,2024-03-01,77,Male,99.3,CNS / Neurological,Oral,393.1,26,5,0.29,0,0,Physician,7,1
+FDA-AER-1000168,2024-03-01,18,Male,72.6,CNS / Neurological,Intravenous,348.3,53,1,0.43,0,0,Pharmacist,28,1
+FDA-AER-1000169,2024-03-01,47,Male,93.2,Immunosuppressant,Oral,301.0,113,1,0.67,0,0,Pharmacist,17,1
+FDA-AER-1000170,2024-03-01,68,Female,55.3,Analgesic,Oral,467.2,7,3,0.54,0,0,Consumer,7,1
+FDA-AER-1000171,2024-03-01,22,Female,99.2,Oncology,Intravenous,191.1,54,1,0.76,0,0,Physician,18,0
+FDA-AER-1000172,2024-03-01,80,Female,106.8,CNS / Neurological,Oral,31.1,20,4,0.07,0,0,Pharmacist,26,1
+FDA-AER-1000173,2024-03-01,80,Male,100.8,Analgesic,Intravenous,316.2,54,7,0.74,0,0,Consumer,5,1
+FDA-AER-1000174,2024-03-01,78,Female,56.7,CNS / Neurological,Oral,597.4,89,0,0.72,0,0,Pharmacist,28,1
+FDA-AER-1000175,2024-03-01,21,Female,99.9,Cardiovascular,Subcutaneous,317.4,61,2,0.29,0,0,Consumer,22,0
+FDA-AER-1000176,2024-03-01,50,Female,107.1,CNS / Neurological,Intravenous,240.4,21,5,0.66,0,0,Consumer,7,1
+FDA-AER-1000177,2024-03-01,66,Female,72.2,Analgesic,Oral,38.5,104,7,0.5,0,0,Pharmacist,26,0
+FDA-AER-1000178,2024-03-01,81,Male,67.1,Oncology,Subcutaneous,400.8,29,2,0.4,0,0,Physician,12,1
+FDA-AER-1000179,2024-03-01,61,Male,55.0,CNS / Neurological,Oral,49.8,116,5,0.88,1,0,Physician,19,1
+FDA-AER-1000180,2024-03-01,59,Female,106.2,Antibiotic,Intravenous,286.3,5,4,0.37,0,0,Pharmacist,29,0
+FDA-AER-1000181,2024-03-01,42,Male,88.8,Analgesic,Subcutaneous,266.1,91,2,0.84,1,0,Pharmacist,26,0
+FDA-AER-1000182,2024-03-01,18,Male,99.3,Antibiotic,Intravenous,374.6,70,5,0.58,1,0,Pharmacist,25,0
+FDA-AER-1000183,2024-03-01,46,Female,99.0,Oncology,Oral,410.8,87,4,0.97,1,0,Physician,1,0
+FDA-AER-1000184,2024-03-01,80,Female,90.1,CNS / Neurological,Oral,319.3,22,7,0.48,0,0,Pharmacist,30,1
+FDA-AER-1000185,2024-03-01,70,Female,93.9,Oncology,Intravenous,321.8,82,6,0.94,0,1,Consumer,26,0
+FDA-AER-1000186,2024-03-01,18,Male,51.4,Analgesic,Subcutaneous,300.3,96,5,0.66,0,0,Pharmacist,21,1
+FDA-AER-1000187,2024-03-01,80,Male,80.8,Analgesic,Oral,368.0,104,6,0.73,0,1,Pharmacist,23,1
+FDA-AER-1000188,2024-03-01,26,Female,93.9,Oncology,Intravenous,378.0,53,2,0.02,0,0,Physician,17,0
+FDA-AER-1000189,2024-03-01,29,Male,91.0,Immunosuppressant,Oral,362.0,87,2,0.91,0,0,Consumer,25,1
+FDA-AER-1000190,2024-03-01,23,Male,93.7,CNS / Neurological,Subcutaneous,552.9,50,2,0.96,0,0,Physician,9,1
+FDA-AER-1000191,2024-03-01,33,Male,93.4,CNS / Neurological,Intravenous,148.9,12,2,0.53,1,0,Physician,14,0
+FDA-AER-1000192,2024-03-01,71,Male,89.7,CNS / Neurological,Subcutaneous,427.0,20,2,0.12,0,0,Pharmacist,18,0
+FDA-AER-1000193,2024-03-01,57,Female,81.5,Analgesic,Intravenous,214.5,117,7,0.37,0,0,Pharmacist,30,1
+FDA-AER-1000194,2024-03-01,24,Male,56.4,CNS / Neurological,Oral,348.6,105,0,0.77,0,0,Consumer,19,0
+FDA-AER-1000195,2024-03-01,72,Female,107.4,Cardiovascular,Oral,43.9,70,5,0.49,0,0,Physician,19,1
+FDA-AER-1000196,2024-03-01,32,Male,102.6,Oncology,Subcutaneous,146.8,62,6,0.99,0,1,Pharmacist,13,0
+FDA-AER-1000197,2024-03-01,54,Male,58.2,Oncology,Oral,314.9,19,7,0.76,0,0,Pharmacist,26,1
+FDA-AER-1000198,2024-03-01,49,Female,66.0,Analgesic,Intravenous,261.3,51,0,0.47,0,0,Physician,22,0
+FDA-AER-1000199,2024-03-01,74,Female,80.9,Analgesic,Oral,263.6,69,7,0.12,1,0,Pharmacist,27,1
+FDA-AER-1000200,2024-03-01,61,Female,82.3,CNS / Neurological,Subcutaneous,117.4,18,6,0.3,0,1,Pharmacist,11,1
+FDA-AER-1000201,2024-03-01,64,Male,89.0,Oncology,Subcutaneous,418.4,16,3,0.25,0,0,Consumer,21,1
+FDA-AER-1000202,2024-03-01,47,Male,101.0,Immunosuppressant,Subcutaneous,375.6,43,3,0.05,0,0,Consumer,13,1
+FDA-AER-1000203,2024-03-01,83,Male,104.6,Antibiotic,Subcutaneous,529.7,81,3,0.57,0,0,Physician,23,1
+FDA-AER-1000204,2024-03-01,27,Male,81.0,Analgesic,Oral,56.5,109,6,0.42,0,0,Physician,20,1
+FDA-AER-1000205,2024-03-01,84,Female,97.4,Analgesic,Intravenous,439.5,11,2,0.37,0,0,Consumer,28,0
+FDA-AER-1000206,2024-03-01,33,Male,90.9,Oncology,Oral,46.9,61,0,0.61,0,0,Pharmacist,13,0
+FDA-AER-1000207,2024-03-01,84,Male,66.5,Immunosuppressant,Oral,161.3,78,5,0.56,0,0,Physician,1,1
+FDA-AER-1000208,2024-03-01,70,Female,72.0,Oncology,Intravenous,479.6,62,0,0.86,0,0,Physician,2,1
+FDA-AER-1000209,2024-03-01,68,Female,84.5,Antibiotic,Subcutaneous,166.7,61,0,0.88,0,0,Pharmacist,24,0
+FDA-AER-1000210,2024-03-01,63,Male,94.0,Cardiovascular,Intravenous,245.4,60,5,0.18,0,0,Pharmacist,8,0
+FDA-AER-1000211,2024-03-01,40,Male,97.1,Analgesic,Oral,503.1,97,4,0.88,0,0,Physician,20,0
+FDA-AER-1000212,2024-03-01,30,Male,97.6,Antibiotic,Subcutaneous,387.1,5,7,0.36,0,0,Physician,11,1
+FDA-AER-1000213,2024-03-01,31,Male,82.3,CNS / Neurological,Subcutaneous,563.6,17,3,0.7,0,0,Consumer,27,1
+FDA-AER-1000214,2024-03-01,24,Male,84.8,Oncology,Subcutaneous,230.6,60,0,0.31,0,0,Physician,7,0
+FDA-AER-1000215,2024-03-01,45,Female,70.8,Cardiovascular,Subcutaneous,343.2,79,2,0.29,0,0,Consumer,17,0
+FDA-AER-1000216,2024-03-01,77,Male,99.9,CNS / Neurological,Oral,510.1,78,0,0.23,1,0,Physician,28,0
+FDA-AER-1000217,2024-03-01,58,Female,85.6,Analgesic,Intravenous,114.2,40,4,0.47,0,0,Consumer,29,0
+FDA-AER-1000218,2024-03-01,81,Female,84.0,CNS / Neurological,Oral,313.9,19,5,0.97,0,0,Consumer,20,1
+FDA-AER-1000219,2024-03-01,72,Male,88.7,Antibiotic,Oral,111.5,16,7,0.04,0,0,Consumer,13,0
+FDA-AER-1000220,2024-03-01,54,Male,89.9,Oncology,Intravenous,40.8,29,7,0.7,0,0,Pharmacist,17,1
+FDA-AER-1000221,2024-03-01,49,Male,98.1,Immunosuppressant,Oral,495.2,5,6,0.62,0,0,Consumer,25,1
+FDA-AER-1000222,2024-03-01,69,Male,109.2,Oncology,Oral,358.1,49,2,0.15,0,0,Consumer,22,1
+FDA-AER-1000223,2024-03-01,84,Female,90.5,Immunosuppressant,Intravenous,309.8,61,0,0.53,0,0,Physician,1,1
+FDA-AER-1000224,2024-03-01,73,Male,109.9,Oncology,Oral,376.4,120,2,0.74,0,0,Physician,23,1
+FDA-AER-1000225,2024-03-01,71,Female,66.9,Cardiovascular,Subcutaneous,457.1,108,1,0.25,0,0,Pharmacist,26,0
+FDA-AER-1000226,2024-03-01,79,Female,97.4,Oncology,Oral,134.4,91,4,0.37,0,0,Physician,24,1
+FDA-AER-1000227,2024-03-01,38,Female,62.8,CNS / Neurological,Oral,214.6,50,4,0.43,0,1,Consumer,22,0
+FDA-AER-1000228,2024-03-01,29,Female,91.9,CNS / Neurological,Subcutaneous,406.3,30,6,0.01,0,0,Physician,19,1
+FDA-AER-1000229,2024-03-01,37,Male,65.2,Oncology,Intravenous,88.2,82,2,0.44,0,0,Physician,23,0
+FDA-AER-1000230,2024-03-01,84,Female,107.4,Cardiovascular,Intravenous,505.0,52,4,0.86,0,0,Consumer,17,0
+FDA-AER-1000231,2024-03-01,41,Male,58.5,Antibiotic,Oral,409.5,79,2,0.21,0,0,Pharmacist,29,0
+FDA-AER-1000232,2024-03-01,34,Female,90.2,Cardiovascular,Subcutaneous,316.4,39,3,0.67,0,0,Pharmacist,28,0
+FDA-AER-1000233,2024-03-01,56,Female,79.3,Oncology,Oral,255.9,86,2,0.31,0,0,Consumer,3,0
+FDA-AER-1000234,2024-03-01,78,Male,88.2,CNS / Neurological,Subcutaneous,554.5,78,0,0.95,0,1,Physician,7,1
+FDA-AER-1000235,2024-03-01,79,Male,66.9,Analgesic,Subcutaneous,410.7,37,3,0.44,0,0,Pharmacist,21,0
+FDA-AER-1000236,2024-03-01,65,Male,52.4,Immunosuppressant,Intravenous,362.7,91,1,0.44,1,0,Pharmacist,26,1
+FDA-AER-1000237,2024-03-01,75,Female,83.3,Antibiotic,Oral,368.8,6,0,0.73,0,0,Physician,7,1
+FDA-AER-1000238,2024-03-01,41,Male,95.7,Oncology,Oral,528.7,23,7,0.22,0,1,Physician,25,1
+FDA-AER-1000239,2024-03-01,70,Female,97.1,Immunosuppressant,Subcutaneous,599.2,89,7,0.04,0,0,Pharmacist,17,1
+FDA-AER-1000240,2024-03-01,62,Female,109.1,CNS / Neurological,Oral,62.2,40,5,0.81,0,0,Physician,30,0
+FDA-AER-1000241,2024-03-01,27,Male,108.6,Oncology,Intravenous,583.8,105,0,0.62,0,0,Pharmacist,5,1
+FDA-AER-1000242,2024-03-01,80,Male,98.3,Immunosuppressant,Subcutaneous,473.9,55,4,0.14,0,0,Physician,14,1
+FDA-AER-1000243,2024-03-01,81,Female,74.4,Cardiovascular,Oral,190.2,83,8,0.98,0,1,Consumer,23,1
+FDA-AER-1000244,2024-03-01,67,Female,50.3,Antibiotic,Intravenous,210.5,11,3,0.49,0,0,Physician,8,0
+FDA-AER-1000245,2024-03-01,30,Male,67.9,Analgesic,Subcutaneous,537.6,20,6,0.85,0,0,Pharmacist,18,1
+FDA-AER-1000246,2024-03-01,82,Female,59.2,Oncology,Oral,251.2,28,0,0.55,0,1,Consumer,22,1
+FDA-AER-1000247,2024-03-01,57,Female,81.3,Antibiotic,Intravenous,433.8,119,1,0.59,0,0,Pharmacist,9,1
+FDA-AER-1000248,2024-03-01,53,Male,91.4,Analgesic,Intravenous,490.3,65,3,0.01,1,0,Consumer,25,0
+FDA-AER-1000249,2024-03-01,21,Male,91.8,CNS / Neurological,Intravenous,599.1,5,2,0.45,0,0,Pharmacist,15,0
+FDA-AER-1000250,2024-03-01,49,Female,69.6,Oncology,Subcutaneous,551.8,111,1,0.12,0,0,Consumer,28,1
+FDA-AER-1000251,2024-03-01,53,Female,108.3,CNS / Neurological,Oral,153.1,97,3,0.88,0,0,Consumer,28,0
+FDA-AER-1000252,2024-03-01,23,Male,94.9,Analgesic,Subcutaneous,30.8,86,4,0.25,0,0,Consumer,26,0
+FDA-AER-1000253,2024-03-01,66,Female,52.7,Oncology,Oral,394.5,41,6,0.86,0,0,Consumer,2,1
+FDA-AER-1000254,2024-03-01,60,Female,54.3,Analgesic,Subcutaneous,168.1,43,8,0.16,0,0,Consumer,18,0
+FDA-AER-1000255,2024-03-01,79,Female,56.7,Cardiovascular,Subcutaneous,240.1,13,6,0.37,0,0,Pharmacist,15,0
+FDA-AER-1000256,2024-03-01,77,Male,107.2,Cardiovascular,Oral,491.0,97,8,0.92,0,0,Pharmacist,29,1
+FDA-AER-1000257,2024-03-01,64,Male,68.8,Analgesic,Oral,578.9,75,8,0.99,0,0,Physician,20,1
+FDA-AER-1000258,2024-03-01,22,Female,82.8,Cardiovascular,Oral,22.5,94,4,0.35,0,0,Consumer,25,0
+FDA-AER-1000259,2024-03-01,54,Male,69.5,Antibiotic,Subcutaneous,21.2,113,7,0.97,0,0,Consumer,5,0
+FDA-AER-1000260,2024-03-01,85,Female,55.1,Immunosuppressant,Intravenous,474.6,108,2,0.33,0,0,Physician,7,0
+FDA-AER-1000261,2024-03-01,32,Female,72.0,Cardiovascular,Intravenous,267.4,74,1,0.3,0,0,Physician,24,0
+FDA-AER-1000262,2024-03-01,39,Female,72.9,Antibiotic,Oral,366.1,19,2,0.61,0,1,Pharmacist,27,0
+FDA-AER-1000263,2024-03-01,30,Male,95.7,Analgesic,Subcutaneous,162.4,37,8,0.77,0,0,Physician,15,1
+FDA-AER-1000264,2024-03-01,56,Male,66.3,Antibiotic,Oral,296.4,93,5,0.58,0,0,Consumer,13,1
+FDA-AER-1000265,2024-03-01,19,Female,91.2,Oncology,Intravenous,29.3,117,3,0.93,0,0,Pharmacist,27,0
+FDA-AER-1000266,2024-03-01,26,Female,77.2,Analgesic,Oral,80.9,107,1,0.24,0,0,Pharmacist,1,0
+FDA-AER-1000267,2024-03-01,28,Female,70.4,Analgesic,Intravenous,270.2,72,4,0.42,0,0,Pharmacist,28,0
+FDA-AER-1000268,2024-03-01,18,Female,59.9,Antibiotic,Subcutaneous,381.6,7,7,0.02,0,0,Consumer,28,0
+FDA-AER-1000269,2024-03-01,76,Female,95.8,Analgesic,Oral,294.2,90,6,0.47,1,0,Consumer,28,0
+FDA-AER-1000270,2024-03-01,42,Female,64.6,CNS / Neurological,Intravenous,500.5,83,2,0.26,1,0,Pharmacist,14,0
+FDA-AER-1000271,2024-03-01,22,Female,94.0,Antibiotic,Intravenous,568.2,67,6,0.49,0,0,Physician,9,0
+FDA-AER-1000272,2024-03-01,59,Male,99.7,Analgesic,Intravenous,387.4,17,4,0.12,0,0,Pharmacist,16,1
+FDA-AER-1000273,2024-03-01,19,Female,85.2,Antibiotic,Oral,55.4,114,1,0.47,0,0,Pharmacist,11,0
+FDA-AER-1000274,2024-03-01,73,Male,60.0,CNS / Neurological,Intravenous,270.3,29,0,0.52,0,0,Physician,9,1
+FDA-AER-1000275,2024-03-01,30,Male,61.8,CNS / Neurological,Oral,408.9,78,2,0.91,0,0,Pharmacist,7,1
+FDA-AER-1000276,2024-03-01,59,Female,77.9,Analgesic,Subcutaneous,312.6,17,1,0.55,0,0,Physician,22,1
+FDA-AER-1000277,2024-03-01,73,Male,98.2,Analgesic,Oral,331.4,117,4,0.3,0,0,Pharmacist,8,1
+FDA-AER-1000278,2024-03-01,44,Female,75.8,Immunosuppressant,Oral,485.4,14,7,0.34,0,0,Physician,21,1
+FDA-AER-1000279,2024-03-01,76,Male,77.0,Cardiovascular,Subcutaneous,561.2,117,7,0.66,0,0,Pharmacist,8,1
+FDA-AER-1000280,2024-03-01,82,Male,71.2,Cardiovascular,Subcutaneous,543.5,55,1,0.89,0,0,Pharmacist,9,1
+FDA-AER-1000281,2024-03-01,76,Female,102.3,CNS / Neurological,Subcutaneous,353.0,30,6,0.56,0,0,Pharmacist,4,1
+FDA-AER-1000282,2024-03-01,53,Female,68.5,Analgesic,Intravenous,237.2,50,4,0.67,0,0,Pharmacist,8,0
+FDA-AER-1000283,2024-03-01,21,Female,51.4,Analgesic,Subcutaneous,534.6,43,5,0.55,0,0,Physician,6,0
+FDA-AER-1000284,2024-03-01,49,Male,66.2,Oncology,Oral,41.0,113,6,0.93,0,0,Consumer,19,1
+FDA-AER-1000285,2024-03-01,70,Female,99.6,Cardiovascular,Oral,330.2,31,2,0.41,0,0,Pharmacist,15,0
+FDA-AER-1000286,2024-03-01,79,Female,61.6,Cardiovascular,Subcutaneous,56.3,77,8,0.7,0,0,Consumer,27,1
+FDA-AER-1000287,2024-03-01,83,Female,71.3,Cardiovascular,Subcutaneous,128.9,61,2,0.52,0,0,Physician,16,0
+FDA-AER-1000288,2024-03-01,56,Male,79.4,Immunosuppressant,Subcutaneous,442.0,75,4,0.86,0,0,Pharmacist,7,0
+FDA-AER-1000289,2024-03-01,63,Female,107.4,CNS / Neurological,Subcutaneous,201.7,6,4,0.47,0,0,Physician,5,0
+FDA-AER-1000290,2024-03-01,22,Male,51.4,Antibiotic,Oral,88.2,72,0,0.54,0,0,Physician,30,0
+FDA-AER-1000291,2024-03-01,18,Male,83.9,Oncology,Intravenous,462.3,90,8,0.02,1,0,Pharmacist,5,1
+FDA-AER-1000292,2024-03-01,28,Female,66.8,Immunosuppressant,Subcutaneous,432.4,69,5,0.54,0,0,Physician,9,0
+FDA-AER-1000293,2024-03-01,59,Male,87.6,Cardiovascular,Subcutaneous,184.2,80,7,0.23,1,0,Pharmacist,25,1
+FDA-AER-1000294,2024-03-01,49,Female,66.0,Analgesic,Intravenous,182.5,62,1,0.18,0,1,Pharmacist,22,0
+FDA-AER-1000295,2024-03-01,51,Male,80.7,Immunosuppressant,Intravenous,451.8,49,0,0.71,0,0,Physician,3,1
+FDA-AER-1000296,2024-03-01,69,Male,54.0,Oncology,Oral,462.5,31,6,0.88,0,0,Consumer,6,0
+FDA-AER-1000297,2024-03-01,45,Female,104.7,Antibiotic,Oral,449.0,20,1,0.36,1,0,Pharmacist,10,0
+FDA-AER-1000298,2024-03-01,32,Male,54.8,Analgesic,Subcutaneous,195.1,44,4,0.92,0,0,Physician,10,0
+FDA-AER-1000299,2024-03-01,30,Male,86.3,Analgesic,Subcutaneous,249.3,95,8,0.13,0,0,Pharmacist,15,1
+FDA-AER-1000300,2024-03-01,85,Female,77.4,Immunosuppressant,Intravenous,115.9,119,0,1.0,0,0,Consumer,15,1
+FDA-AER-1000301,2024-03-01,32,Female,64.0,CNS / Neurological,Subcutaneous,277.9,35,0,1.0,0,0,Pharmacist,3,0
+FDA-AER-1000302,2024-03-01,23,Male,71.3,Oncology,Intravenous,349.9,99,7,0.67,0,0,Pharmacist,2,1
+FDA-AER-1000303,2024-03-01,48,Male,94.9,Oncology,Oral,518.9,33,8,0.5,0,0,Consumer,7,1
+FDA-AER-1000304,2024-03-01,42,Male,60.7,Antibiotic,Subcutaneous,218.2,44,2,0.57,1,0,Consumer,30,0
+FDA-AER-1000305,2024-03-01,32,Male,83.3,CNS / Neurological,Subcutaneous,289.8,75,2,0.8,1,0,Pharmacist,11,0
+FDA-AER-1000306,2024-03-01,52,Female,61.5,Antibiotic,Intravenous,560.8,117,7,0.41,0,1,Pharmacist,4,0
+FDA-AER-1000307,2024-03-01,43,Female,67.2,Oncology,Oral,100.3,73,2,0.61,0,0,Pharmacist,20,0
+FDA-AER-1000308,2024-03-01,31,Female,77.6,Antibiotic,Intravenous,158.5,44,1,0.36,0,0,Pharmacist,4,0
+FDA-AER-1000309,2024-03-01,78,Male,101.9,CNS / Neurological,Subcutaneous,196.3,26,4,0.33,0,1,Consumer,22,1
+FDA-AER-1000310,2024-03-01,33,Female,108.2,Cardiovascular,Intravenous,367.7,96,3,0.55,0,0,Physician,18,0
+FDA-AER-1000311,2024-03-01,60,Male,69.7,Oncology,Oral,301.9,58,3,0.63,0,0,Pharmacist,23,0
+FDA-AER-1000312,2024-03-01,24,Male,54.4,Oncology,Oral,218.7,32,6,0.43,0,0,Consumer,19,0
+FDA-AER-1000313,2024-03-01,77,Male,107.3,CNS / Neurological,Intravenous,28.7,115,8,0.42,1,0,Pharmacist,16,1
+FDA-AER-1000314,2024-03-01,69,Female,52.5,Analgesic,Intravenous,60.4,64,3,0.09,0,0,Consumer,10,1
+FDA-AER-1000315,2024-03-01,43,Male,60.4,Cardiovascular,Intravenous,525.1,93,4,0.86,0,0,Pharmacist,26,0
+FDA-AER-1000316,2024-03-01,33,Female,107.5,Immunosuppressant,Subcutaneous,344.6,37,8,0.34,0,0,Consumer,14,1
+FDA-AER-1000317,2024-03-01,58,Male,63.6,Antibiotic,Intravenous,476.1,23,1,0.45,0,0,Consumer,24,1
+FDA-AER-1000318,2024-03-01,44,Male,80.0,Oncology,Intravenous,33.5,10,2,0.9,0,0,Consumer,14,0
+FDA-AER-1000319,2024-03-01,29,Female,81.2,Cardiovascular,Intravenous,269.9,37,2,0.64,0,0,Consumer,2,0
+FDA-AER-1000320,2024-03-01,38,Male,76.3,Antibiotic,Oral,146.1,84,2,0.44,1,0,Pharmacist,2,0
+FDA-AER-1000321,2024-03-01,30,Male,55.5,Analgesic,Intravenous,90.2,16,2,0.72,1,0,Consumer,4,0
+FDA-AER-1000322,2024-03-01,78,Female,71.1,Immunosuppressant,Oral,260.2,105,6,0.54,0,0,Consumer,12,0
+FDA-AER-1000323,2024-03-01,36,Male,80.3,Oncology,Intravenous,279.8,106,5,0.63,0,0,Physician,29,1
+FDA-AER-1000324,2024-03-01,71,Female,62.0,Oncology,Intravenous,82.0,15,1,0.98,0,0,Pharmacist,11,1
+FDA-AER-1000325,2024-03-01,63,Female,92.8,Antibiotic,Intravenous,495.0,65,0,0.48,0,0,Pharmacist,18,1
+FDA-AER-1000326,2024-03-01,65,Male,81.9,Antibiotic,Oral,282.6,76,8,0.17,0,0,Consumer,13,1
+FDA-AER-1000327,2024-03-01,62,Female,92.6,Cardiovascular,Intravenous,396.9,74,7,0.16,0,0,Physician,24,0
+FDA-AER-1000328,2024-03-01,44,Female,67.4,Cardiovascular,Oral,290.4,87,4,0.18,0,0,Physician,24,0
+FDA-AER-1000329,2024-03-01,67,Male,109.3,Antibiotic,Intravenous,562.4,37,0,0.26,0,0,Pharmacist,27,1
+FDA-AER-1000330,2024-03-01,37,Female,90.8,Cardiovascular,Oral,519.3,16,4,0.88,0,0,Pharmacist,27,0
+FDA-AER-1000331,2024-03-01,72,Female,55.3,Immunosuppressant,Subcutaneous,432.6,107,8,0.46,1,0,Pharmacist,2,0
+FDA-AER-1000332,2024-03-01,30,Male,62.1,Antibiotic,Oral,563.8,83,7,0.32,0,0,Physician,21,1
+FDA-AER-1000333,2024-03-01,20,Female,64.2,Analgesic,Intravenous,386.0,52,5,0.92,0,0,Pharmacist,11,0
+FDA-AER-1000334,2024-03-01,30,Male,96.3,Oncology,Intravenous,267.7,43,8,0.23,0,0,Pharmacist,25,1
+FDA-AER-1000335,2024-03-01,52,Male,92.0,Immunosuppressant,Intravenous,391.5,49,6,0.18,0,0,Pharmacist,24,1
+FDA-AER-1000336,2024-03-01,38,Male,92.1,Cardiovascular,Subcutaneous,296.3,61,8,0.89,0,0,Physician,17,0
+FDA-AER-1000337,2024-03-01,55,Male,81.5,CNS / Neurological,Oral,178.7,18,7,0.13,0,0,Pharmacist,24,0
+FDA-AER-1000338,2024-03-01,43,Female,79.0,Analgesic,Oral,560.4,86,4,0.24,1,0,Physician,15,1
+FDA-AER-1000339,2024-03-01,30,Male,87.5,Antibiotic,Intravenous,306.4,55,2,0.25,0,0,Physician,30,0
+FDA-AER-1000340,2024-03-01,45,Female,85.8,Immunosuppressant,Subcutaneous,379.5,97,3,0.05,0,0,Physician,10,1
+FDA-AER-1000341,2024-03-01,49,Female,77.5,Cardiovascular,Subcutaneous,391.5,110,1,0.72,0,0,Physician,28,1
+FDA-AER-1000342,2024-03-01,70,Female,63.2,Oncology,Subcutaneous,411.0,63,3,0.68,1,0,Consumer,17,1
+FDA-AER-1000343,2024-03-01,19,Male,67.0,Analgesic,Subcutaneous,517.6,21,7,0.13,0,0,Physician,8,1
+FDA-AER-1000344,2024-03-01,50,Male,85.2,Immunosuppressant,Oral,57.5,65,1,0.73,0,0,Physician,7,0
+FDA-AER-1000345,2024-03-01,41,Female,82.2,Oncology,Subcutaneous,43.2,28,0,0.2,1,0,Physician,22,0
+FDA-AER-1000346,2024-03-01,53,Female,80.8,Cardiovascular,Oral,117.2,113,3,0.5,0,0,Pharmacist,21,0
+FDA-AER-1000347,2024-03-01,27,Male,97.0,Antibiotic,Subcutaneous,461.3,83,1,0.71,1,0,Physician,9,0
+FDA-AER-1000348,2024-03-01,47,Male,69.8,Antibiotic,Oral,451.8,9,0,0.97,0,0,Physician,4,1
+FDA-AER-1000349,2024-03-01,56,Female,81.7,Immunosuppressant,Oral,592.7,70,2,0.14,0,0,Pharmacist,30,0
+FDA-AER-1000350,2024-03-01,18,Female,69.0,CNS / Neurological,Oral,323.3,42,4,0.81,0,0,Pharmacist,28,0
+FDA-AER-1000351,2024-03-01,42,Female,89.6,Antibiotic,Oral,126.4,89,5,0.4,0,0,Pharmacist,28,1
+FDA-AER-1000352,2024-03-01,75,Male,108.8,Analgesic,Intravenous,527.2,61,4,0.14,0,0,Pharmacist,28,1
+FDA-AER-1000353,2024-03-01,64,Female,97.4,Analgesic,Intravenous,511.0,67,3,0.19,0,0,Physician,21,1
+FDA-AER-1000354,2024-03-01,60,Male,72.4,Immunosuppressant,Subcutaneous,503.8,26,0,0.96,0,0,Physician,22,1
+FDA-AER-1000355,2024-03-01,58,Female,58.2,Analgesic,Subcutaneous,23.7,30,6,0.95,0,0,Consumer,10,0
+FDA-AER-1000356,2024-03-01,22,Male,83.5,Analgesic,Oral,281.6,80,7,0.43,0,0,Pharmacist,9,0
+FDA-AER-1000357,2024-03-01,66,Female,109.2,Analgesic,Oral,86.9,46,1,0.92,0,0,Consumer,27,0
+FDA-AER-1000358,2024-03-01,53,Female,66.2,Immunosuppressant,Subcutaneous,453.1,32,6,0.27,0,0,Pharmacist,27,1
+FDA-AER-1000359,2024-03-01,82,Male,84.8,Antibiotic,Oral,53.5,35,3,0.81,0,0,Pharmacist,20,1
+FDA-AER-1000360,2024-03-01,66,Female,85.5,Oncology,Subcutaneous,401.4,18,6,0.03,0,1,Consumer,20,0
+FDA-AER-1000361,2024-03-01,43,Female,95.4,Immunosuppressant,Subcutaneous,137.9,49,2,0.87,1,0,Physician,27,0
+FDA-AER-1000362,2024-03-01,79,Male,74.9,Antibiotic,Oral,55.1,51,6,0.53,0,0,Physician,8,1
+FDA-AER-1000363,2024-03-01,32,Male,100.3,Analgesic,Intravenous,228.9,58,4,0.11,1,0,Pharmacist,23,0
+FDA-AER-1000364,2024-03-01,85,Male,70.5,Analgesic,Intravenous,320.8,68,1,0.2,0,0,Pharmacist,19,1
+FDA-AER-1000365,2024-03-01,68,Female,94.7,CNS / Neurological,Oral,314.8,20,5,0.72,0,0,Pharmacist,8,1
+FDA-AER-1000366,2024-03-01,78,Male,50.5,CNS / Neurological,Subcutaneous,189.4,19,4,0.61,0,0,Physician,21,0
+FDA-AER-1000367,2024-03-01,62,Male,65.5,Analgesic,Intravenous,537.6,14,8,0.21,0,0,Physician,29,1
+FDA-AER-1000368,2024-03-01,80,Male,82.6,CNS / Neurological,Intravenous,498.9,97,5,0.36,0,0,Consumer,7,1
+FDA-AER-1000369,2024-03-01,24,Male,55.8,Analgesic,Oral,58.0,55,5,0.95,0,0,Physician,16,0
+FDA-AER-1000370,2024-03-01,33,Female,55.3,Oncology,Oral,415.4,60,4,0.31,0,0,Consumer,28,1
+FDA-AER-1000371,2024-03-01,19,Female,65.8,Immunosuppressant,Subcutaneous,258.1,9,0,0.79,0,0,Consumer,3,0
+FDA-AER-1000372,2024-03-01,72,Male,90.3,Oncology,Subcutaneous,277.5,44,2,0.94,0,0,Pharmacist,5,1
+FDA-AER-1000373,2024-03-01,46,Male,106.3,Cardiovascular,Oral,485.8,99,4,0.82,1,0,Physician,15,1
+FDA-AER-1000374,2024-03-01,51,Male,59.3,Immunosuppressant,Oral,388.3,26,8,0.64,0,0,Physician,7,0
+FDA-AER-1000375,2024-03-01,42,Male,86.7,Analgesic,Oral,408.4,119,2,0.18,0,1,Pharmacist,19,1
+FDA-AER-1000376,2024-03-01,54,Female,73.0,CNS / Neurological,Intravenous,284.4,43,2,0.79,1,0,Consumer,14,0
+FDA-AER-1000377,2024-03-01,33,Female,57.6,Oncology,Subcutaneous,557.2,101,1,0.87,0,0,Pharmacist,25,1
+FDA-AER-1000378,2024-03-01,56,Male,101.6,Oncology,Subcutaneous,64.0,38,8,0.39,0,0,Consumer,6,0
+FDA-AER-1000379,2024-03-01,75,Male,50.9,CNS / Neurological,Subcutaneous,261.0,33,5,0.87,0,0,Pharmacist,15,1
+FDA-AER-1000380,2024-03-01,41,Female,97.3,Antibiotic,Intravenous,582.5,16,2,0.5,0,0,Consumer,29,1
+FDA-AER-1000381,2024-03-01,84,Male,68.5,Immunosuppressant,Intravenous,116.2,107,1,0.12,0,1,Physician,22,0
+FDA-AER-1000382,2024-03-01,64,Female,94.8,CNS / Neurological,Intravenous,405.5,54,8,0.92,0,1,Pharmacist,15,1
+FDA-AER-1000383,2024-03-01,78,Female,82.6,Immunosuppressant,Intravenous,171.7,54,6,0.08,0,0,Physician,25,1
+FDA-AER-1000384,2024-03-01,30,Male,108.9,Cardiovascular,Intravenous,167.2,30,4,0.43,0,0,Consumer,24,0
+FDA-AER-1000385,2024-03-01,48,Female,59.4,Immunosuppressant,Intravenous,465.5,73,3,0.06,0,0,Physician,13,1
+FDA-AER-1000386,2024-03-01,21,Female,109.8,Analgesic,Subcutaneous,168.0,105,5,0.09,0,0,Physician,23,1
+FDA-AER-1000387,2024-03-01,84,Male,77.1,Antibiotic,Intravenous,190.3,100,6,0.0,0,0,Pharmacist,2,1
+FDA-AER-1000388,2024-03-01,60,Male,99.5,Oncology,Oral,525.6,26,2,0.96,0,0,Consumer,28,1
+FDA-AER-1000389,2024-03-01,55,Female,89.3,Oncology,Intravenous,170.6,9,6,0.59,1,0,Consumer,9,1
+FDA-AER-1000390,2024-03-01,55,Male,86.3,Immunosuppressant,Oral,273.9,87,3,0.59,1,0,Consumer,26,0
+FDA-AER-1000391,2024-03-01,32,Female,76.8,Oncology,Intravenous,393.1,10,8,0.85,0,0,Consumer,8,1
+FDA-AER-1000392,2024-03-01,25,Male,82.1,Analgesic,Oral,479.3,25,3,0.64,0,0,Consumer,26,1
+FDA-AER-1000393,2024-03-01,20,Female,80.2,Analgesic,Oral,175.8,103,8,0.55,0,0,Pharmacist,4,0
+FDA-AER-1000394,2024-03-01,65,Female,89.9,Cardiovascular,Intravenous,161.2,51,3,0.69,0,0,Consumer,25,0
+FDA-AER-1000395,2024-03-01,64,Male,60.7,Antibiotic,Subcutaneous,449.9,109,0,0.97,0,1,Physician,18,0
+FDA-AER-1000396,2024-03-01,54,Female,67.0,Analgesic,Oral,462.2,58,8,0.78,0,0,Consumer,30,0
+FDA-AER-1000397,2024-03-01,47,Male,66.9,Antibiotic,Subcutaneous,509.2,90,2,0.75,0,0,Pharmacist,5,0
+FDA-AER-1000398,2024-03-01,73,Male,71.6,Analgesic,Subcutaneous,580.3,13,4,0.88,0,0,Consumer,26,0
+FDA-AER-1000399,2024-03-01,34,Female,86.8,Cardiovascular,Oral,355.3,16,6,0.89,1,0,Consumer,25,0
+FDA-AER-1000400,2024-03-01,73,Male,97.7,Oncology,Subcutaneous,295.3,115,8,0.24,0,0,Pharmacist,16,0
+FDA-AER-1000401,2024-03-01,53,Female,55.2,Antibiotic,Subcutaneous,211.6,13,0,1.0,1,0,Pharmacist,7,0
+FDA-AER-1000402,2024-03-01,79,Female,55.5,Antibiotic,Subcutaneous,107.5,97,1,0.53,0,0,Physician,26,1
+FDA-AER-1000403,2024-03-01,53,Female,50.3,Antibiotic,Oral,266.3,101,0,0.61,0,0,Consumer,27,0
+FDA-AER-1000404,2024-03-01,27,Female,76.9,Analgesic,Intravenous,570.4,26,5,0.33,1,0,Physician,21,1
+FDA-AER-1000405,2024-03-01,45,Female,69.5,Analgesic,Oral,222.5,51,2,0.08,0,0,Consumer,23,0
+FDA-AER-1000406,2024-03-01,83,Male,68.0,Oncology,Oral,32.7,54,5,0.43,0,0,Pharmacist,23,0
+FDA-AER-1000407,2024-03-01,85,Male,100.2,Oncology,Intravenous,511.1,72,5,0.91,0,0,Consumer,3,1
+FDA-AER-1000408,2024-03-01,85,Female,91.2,Analgesic,Subcutaneous,334.3,52,7,0.16,0,0,Physician,17,0
+FDA-AER-1000409,2024-03-01,66,Male,58.1,Oncology,Oral,114.2,114,0,0.29,0,0,Pharmacist,3,0
+FDA-AER-1000410,2024-03-01,62,Male,66.2,Cardiovascular,Oral,193.7,84,3,0.06,0,0,Consumer,20,0
+FDA-AER-1000411,2024-03-01,31,Female,98.0,Immunosuppressant,Intravenous,288.9,69,4,0.1,0,0,Physician,30,0
+FDA-AER-1000412,2024-03-01,85,Female,79.2,Analgesic,Subcutaneous,90.9,11,8,0.39,0,0,Physician,28,1
+FDA-AER-1000413,2024-03-01,35,Female,84.6,Cardiovascular,Subcutaneous,507.6,115,1,1.0,0,0,Consumer,21,1
+FDA-AER-1000414,2024-03-01,30,Female,60.7,Oncology,Intravenous,438.2,98,0,0.63,0,0,Physician,26,1
+FDA-AER-1000415,2024-03-01,70,Female,60.5,Antibiotic,Intravenous,241.6,88,7,0.17,0,0,Pharmacist,1,0
+FDA-AER-1000416,2024-03-01,81,Female,67.3,Cardiovascular,Subcutaneous,152.3,40,1,0.7,0,1,Physician,10,0
+FDA-AER-1000417,2024-03-01,34,Male,99.0,Analgesic,Subcutaneous,329.3,18,7,0.93,1,0,Physician,25,1
+FDA-AER-1000418,2024-03-01,27,Male,109.4,Analgesic,Subcutaneous,377.1,77,8,0.69,0,0,Consumer,1,0
+FDA-AER-1000419,2024-03-01,20,Male,57.9,Antibiotic,Intravenous,233.0,48,2,0.59,0,0,Pharmacist,10,0
+FDA-AER-1000420,2024-03-01,41,Male,50.4,Immunosuppressant,Subcutaneous,428.8,83,7,0.32,0,0,Consumer,1,1
+FDA-AER-1000421,2024-03-01,63,Female,109.4,Analgesic,Intravenous,490.6,23,6,0.15,0,0,Consumer,25,1
+FDA-AER-1000422,2024-03-01,50,Male,93.1,Antibiotic,Subcutaneous,572.9,34,3,0.3,0,1,Consumer,30,0
+FDA-AER-1000423,2024-03-01,72,Male,64.8,Immunosuppressant,Oral,588.2,62,2,0.07,1,0,Physician,16,0
+FDA-AER-1000424,2024-03-01,46,Female,100.1,Analgesic,Subcutaneous,219.9,74,5,0.63,0,1,Pharmacist,1,1
+FDA-AER-1000425,2024-03-01,51,Female,73.8,Analgesic,Subcutaneous,424.1,65,7,0.57,0,0,Consumer,12,1
+FDA-AER-1000426,2024-03-01,40,Male,77.5,Cardiovascular,Subcutaneous,578.3,120,3,0.58,0,0,Consumer,8,1
+FDA-AER-1000427,2024-03-01,34,Female,96.4,Cardiovascular,Intravenous,147.9,92,7,0.91,1,0,Pharmacist,19,1
+FDA-AER-1000428,2024-03-01,53,Male,100.7,Oncology,Intravenous,264.1,106,3,0.29,0,0,Pharmacist,26,0
+FDA-AER-1000429,2024-03-01,58,Male,58.6,Cardiovascular,Oral,89.9,55,6,0.4,0,0,Physician,30,1
+FDA-AER-1000430,2024-03-01,72,Female,54.6,Oncology,Oral,239.1,21,5,0.46,0,0,Physician,6,0
+FDA-AER-1000431,2024-03-01,79,Male,101.5,Cardiovascular,Intravenous,60.4,8,7,0.38,0,0,Pharmacist,12,1
+FDA-AER-1000432,2024-03-01,83,Male,83.2,Oncology,Intravenous,349.6,95,1,0.85,0,0,Consumer,2,1
+FDA-AER-1000433,2024-03-01,38,Female,67.9,Analgesic,Oral,22.1,87,4,0.66,0,0,Physician,19,0
+FDA-AER-1000434,2024-03-01,83,Female,98.0,Antibiotic,Subcutaneous,139.6,114,0,0.16,0,0,Physician,4,0
+FDA-AER-1000435,2024-03-01,58,Male,92.2,Oncology,Oral,225.3,94,4,0.15,1,0,Physician,8,0
+FDA-AER-1000436,2024-03-01,61,Male,99.2,Immunosuppressant,Intravenous,46.1,118,4,0.5,0,0,Physician,23,0
+FDA-AER-1000437,2024-03-01,55,Female,90.3,Analgesic,Intravenous,122.3,118,0,0.08,0,0,Pharmacist,4,0
+FDA-AER-1000438,2024-03-01,77,Male,58.7,Cardiovascular,Oral,316.6,49,6,0.32,1,0,Consumer,8,0
+FDA-AER-1000439,2024-03-01,48,Female,54.0,Antibiotic,Oral,289.3,9,5,0.65,0,0,Pharmacist,3,1
+FDA-AER-1000440,2024-03-01,57,Male,108.9,Analgesic,Subcutaneous,270.7,55,8,0.54,0,0,Consumer,24,1
+FDA-AER-1000441,2024-03-01,70,Male,100.6,CNS / Neurological,Intravenous,550.6,56,8,0.65,0,0,Consumer,25,1
+FDA-AER-1000442,2024-03-01,35,Female,90.8,Oncology,Oral,41.5,88,0,0.36,0,0,Consumer,13,0
+FDA-AER-1000443,2024-03-01,63,Male,87.2,Immunosuppressant,Subcutaneous,68.9,54,8,0.75,1,0,Consumer,19,1
+FDA-AER-1000444,2024-03-01,72,Male,62.0,Oncology,Oral,240.1,95,0,0.14,0,0,Physician,24,1
+FDA-AER-1000445,2024-03-01,41,Female,73.1,Antibiotic,Oral,354.8,67,4,0.87,0,0,Physician,1,1
+FDA-AER-1000446,2024-03-01,38,Female,50.0,Cardiovascular,Oral,593.1,61,7,0.96,0,0,Consumer,25,1
+FDA-AER-1000447,2024-03-01,32,Female,76.7,Cardiovascular,Intravenous,125.1,70,8,0.32,0,0,Pharmacist,2,0
+FDA-AER-1000448,2024-03-01,22,Male,90.4,CNS / Neurological,Intravenous,218.0,41,0,0.52,0,0,Physician,21,0
+FDA-AER-1000449,2024-03-01,56,Female,80.6,Cardiovascular,Oral,110.9,40,5,0.3,0,0,Physician,26,0
+FDA-AER-1000450,2024-03-01,32,Male,102.5,Analgesic,Subcutaneous,153.2,86,6,0.45,0,0,Consumer,3,0
+FDA-AER-1000451,2024-03-01,65,Male,53.6,Immunosuppressant,Intravenous,234.9,120,2,0.35,0,0,Physician,4,0
+FDA-AER-1000452,2024-03-01,63,Female,89.8,CNS / Neurological,Intravenous,375.2,100,7,0.22,0,0,Physician,24,0
+FDA-AER-1000453,2024-03-01,68,Female,102.8,CNS / Neurological,Intravenous,274.6,38,4,0.21,0,0,Pharmacist,29,0
+FDA-AER-1000454,2024-03-01,21,Male,85.4,CNS / Neurological,Subcutaneous,214.9,76,4,0.09,1,1,Pharmacist,30,0
+FDA-AER-1000455,2024-03-01,50,Female,54.9,Antibiotic,Subcutaneous,356.6,106,0,0.31,1,0,Pharmacist,18,1
+FDA-AER-1000456,2024-03-01,33,Male,96.6,Analgesic,Intravenous,521.3,110,4,0.99,0,0,Consumer,18,1
+FDA-AER-1000457,2024-03-01,28,Male,67.6,Cardiovascular,Intravenous,390.2,56,5,0.93,0,0,Consumer,13,1
+FDA-AER-1000458,2024-03-01,82,Female,77.3,Oncology,Subcutaneous,193.1,97,5,0.61,0,0,Consumer,11,1
+FDA-AER-1000459,2024-03-01,70,Female,92.6,Oncology,Oral,389.0,79,6,0.43,0,0,Physician,24,1
+FDA-AER-1000460,2024-03-01,26,Male,81.3,Antibiotic,Intravenous,122.7,69,5,0.92,0,0,Physician,20,1
+FDA-AER-1000461,2024-03-01,46,Male,91.8,Antibiotic,Intravenous,68.0,18,3,0.77,0,0,Physician,27,0
+FDA-AER-1000462,2024-03-01,43,Female,58.6,Cardiovascular,Subcutaneous,82.4,19,7,0.35,0,0,Physician,26,0
+FDA-AER-1000463,2024-03-01,20,Male,89.5,Analgesic,Oral,600.0,75,3,0.01,0,1,Consumer,22,1
+FDA-AER-1000464,2024-03-01,71,Female,71.2,Analgesic,Subcutaneous,459.4,67,2,0.08,1,0,Consumer,12,1
+FDA-AER-1000465,2024-03-01,30,Male,75.6,Analgesic,Intravenous,116.7,30,0,0.63,0,1,Consumer,16,0
+FDA-AER-1000466,2024-03-01,40,Female,81.4,CNS / Neurological,Intravenous,122.2,45,5,0.75,0,0,Pharmacist,3,1
+FDA-AER-1000467,2024-03-01,74,Female,56.7,CNS / Neurological,Intravenous,147.5,74,1,0.71,0,0,Consumer,3,1
+FDA-AER-1000468,2024-03-01,76,Male,94.6,Immunosuppressant,Intravenous,283.0,35,1,0.61,0,0,Consumer,30,0
+FDA-AER-1000469,2024-03-01,44,Male,79.0,Analgesic,Subcutaneous,89.7,44,5,0.49,0,0,Pharmacist,26,1
+FDA-AER-1000470,2024-03-01,78,Female,81.4,Immunosuppressant,Intravenous,219.3,100,1,0.79,0,0,Physician,2,1
+FDA-AER-1000471,2024-03-01,41,Male,51.0,Oncology,Intravenous,71.0,111,1,0.8,0,0,Physician,17,0
+FDA-AER-1000472,2024-03-01,56,Male,88.6,Analgesic,Intravenous,108.7,41,5,0.92,0,0,Physician,11,0
+FDA-AER-1000473,2024-03-01,67,Male,65.5,CNS / Neurological,Oral,313.7,33,3,0.6,0,0,Physician,6,0
+FDA-AER-1000474,2024-03-01,56,Male,61.1,Analgesic,Intravenous,140.7,6,7,0.77,0,0,Pharmacist,5,0
+FDA-AER-1000475,2024-03-01,73,Male,81.3,Analgesic,Subcutaneous,512.3,23,0,0.07,0,0,Pharmacist,21,0
+FDA-AER-1000476,2024-03-01,25,Male,81.4,Analgesic,Oral,532.1,94,8,0.13,1,0,Pharmacist,26,0
+FDA-AER-1000477,2024-03-01,29,Female,99.5,Oncology,Oral,447.3,101,4,0.81,0,0,Consumer,17,1
+FDA-AER-1000478,2024-03-01,72,Male,99.7,Cardiovascular,Oral,141.1,48,8,0.93,0,0,Pharmacist,9,1
+FDA-AER-1000479,2024-03-01,83,Female,97.1,Oncology,Oral,243.3,98,5,0.17,0,0,Pharmacist,11,0
+FDA-AER-1000480,2024-03-01,51,Female,87.4,Cardiovascular,Subcutaneous,537.7,76,3,0.32,0,0,Physician,28,1
+FDA-AER-1000481,2024-03-01,60,Female,72.9,Analgesic,Oral,477.0,49,3,0.75,0,0,Physician,4,1
+FDA-AER-1000482,2024-03-01,72,Female,50.5,Immunosuppressant,Subcutaneous,525.6,37,7,0.61,0,0,Pharmacist,12,1
+FDA-AER-1000483,2024-03-01,67,Male,78.3,Analgesic,Oral,274.9,82,1,0.53,1,0,Pharmacist,13,1
+FDA-AER-1000484,2024-03-01,79,Male,107.7,Immunosuppressant,Subcutaneous,173.6,28,1,0.58,0,1,Consumer,20,1
+FDA-AER-1000485,2024-03-01,80,Female,75.2,Antibiotic,Oral,584.6,50,2,0.62,0,0,Pharmacist,7,1
+FDA-AER-1000486,2024-03-01,45,Male,69.5,Immunosuppressant,Intravenous,404.2,27,2,0.08,0,0,Pharmacist,17,1
+FDA-AER-1000487,2024-03-01,39,Male,61.0,Cardiovascular,Subcutaneous,585.2,12,5,0.88,0,1,Pharmacist,16,0
+FDA-AER-1000488,2024-03-01,34,Female,78.3,CNS / Neurological,Subcutaneous,231.0,16,8,0.6,0,0,Consumer,10,1
+FDA-AER-1000489,2024-03-01,40,Female,96.9,Cardiovascular,Subcutaneous,186.4,113,7,0.12,0,0,Physician,11,0
+FDA-AER-1000490,2024-03-01,53,Female,99.8,Immunosuppressant,Subcutaneous,80.4,44,2,0.78,0,0,Pharmacist,29,0
+FDA-AER-1000491,2024-03-01,63,Female,88.8,Analgesic,Intravenous,423.0,75,5,0.25,0,0,Consumer,6,1
+FDA-AER-1000492,2024-03-01,39,Male,85.0,Oncology,Intravenous,318.9,79,5,0.53,0,0,Consumer,28,1
+FDA-AER-1000493,2024-03-01,44,Female,99.4,Immunosuppressant,Subcutaneous,105.0,75,3,0.54,0,1,Consumer,1,0
+FDA-AER-1000494,2024-03-01,55,Male,87.9,Oncology,Oral,128.9,34,8,0.57,0,0,Pharmacist,13,1
+FDA-AER-1000495,2024-03-01,46,Male,80.2,Oncology,Subcutaneous,168.4,48,1,0.38,0,1,Physician,25,0
+FDA-AER-1000496,2024-03-01,84,Male,61.0,Analgesic,Oral,300.3,59,5,0.21,0,1,Physician,24,1
+FDA-AER-1000497,2024-03-01,84,Female,100.2,CNS / Neurological,Subcutaneous,161.1,119,3,0.47,0,0,Consumer,10,1
+FDA-AER-1000498,2024-03-01,57,Female,51.5,Cardiovascular,Intravenous,570.6,72,3,0.18,0,0,Pharmacist,29,0
+FDA-AER-1000499,2024-03-01,69,Female,63.1,CNS / Neurological,Subcutaneous,89.6,34,3,0.69,0,1,Physician,9,1
+FDA-AER-1000500,2024-03-01,79,Female,96.3,Oncology,Subcutaneous,250.1,56,8,0.64,0,1,Physician,14,1
+FDA-AER-1000501,2024-03-01,78,Male,94.0,Antibiotic,Oral,408.2,37,3,0.66,0,0,Physician,21,1
+FDA-AER-1000502,2024-03-01,22,Male,77.1,CNS / Neurological,Intravenous,362.3,77,4,0.75,0,0,Pharmacist,21,0
+FDA-AER-1000503,2024-03-01,42,Female,58.5,CNS / Neurological,Intravenous,362.5,65,1,0.86,0,0,Pharmacist,11,1
+FDA-AER-1000504,2024-03-01,39,Male,91.9,Analgesic,Subcutaneous,558.9,36,7,0.22,0,0,Physician,25,1
+FDA-AER-1000505,2024-03-01,20,Male,71.1,Oncology,Intravenous,277.7,59,1,0.97,0,0,Pharmacist,12,0
+FDA-AER-1000506,2024-03-01,34,Male,95.8,Analgesic,Subcutaneous,395.2,86,3,0.04,0,1,Consumer,2,1
+FDA-AER-1000507,2024-03-01,79,Female,82.8,Cardiovascular,Oral,94.7,42,1,0.22,1,0,Pharmacist,19,1
+FDA-AER-1000508,2024-03-01,21,Female,72.4,Cardiovascular,Oral,65.1,21,6,0.23,0,0,Consumer,6,0
+FDA-AER-1000509,2024-03-01,79,Male,60.3,CNS / Neurological,Oral,480.8,119,3,0.67,0,1,Consumer,12,1
+FDA-AER-1000510,2024-03-01,19,Male,55.1,CNS / Neurological,Intravenous,133.0,40,0,0.86,0,0,Physician,27,0
+FDA-AER-1000511,2024-03-01,21,Male,71.7,CNS / Neurological,Subcutaneous,154.2,19,1,0.99,0,0,Pharmacist,23,0
+FDA-AER-1000512,2024-03-01,34,Male,65.3,CNS / Neurological,Oral,122.9,81,0,0.57,0,0,Pharmacist,20,0
+FDA-AER-1000513,2024-03-01,37,Female,103.6,Analgesic,Intravenous,474.7,74,3,0.56,0,0,Consumer,4,1
+FDA-AER-1000514,2024-03-01,62,Female,109.1,Antibiotic,Subcutaneous,53.7,31,5,0.26,0,0,Consumer,8,0
+FDA-AER-1000515,2024-03-01,69,Male,106.9,CNS / Neurological,Subcutaneous,344.5,65,3,0.01,0,0,Pharmacist,30,0
+FDA-AER-1000516,2024-03-01,22,Female,100.8,Cardiovascular,Subcutaneous,349.4,36,1,0.83,0,0,Consumer,9,1
+FDA-AER-1000517,2024-03-01,46,Female,76.1,Antibiotic,Oral,581.6,95,4,0.97,1,0,Pharmacist,14,0
+FDA-AER-1000518,2024-03-01,36,Female,64.0,Antibiotic,Oral,48.9,16,0,0.21,1,0,Consumer,14,0
+FDA-AER-1000519,2024-03-01,26,Male,51.0,Oncology,Oral,184.7,119,3,0.27,0,0,Pharmacist,2,0
+FDA-AER-1000520,2024-03-01,54,Male,76.9,Analgesic,Intravenous,369.6,34,0,0.24,0,0,Consumer,7,1
+FDA-AER-1000521,2024-03-01,22,Female,78.3,Analgesic,Intravenous,470.5,14,0,0.27,1,0,Physician,14,1
+FDA-AER-1000522,2024-03-01,33,Female,108.4,Antibiotic,Subcutaneous,381.1,5,4,0.25,0,0,Consumer,17,1
+FDA-AER-1000523,2024-03-01,34,Female,99.0,Analgesic,Oral,492.0,106,8,0.04,0,1,Physician,3,1
+FDA-AER-1000524,2024-03-01,51,Male,66.5,Cardiovascular,Intravenous,310.7,54,7,0.75,0,0,Pharmacist,17,0
+FDA-AER-1000525,2024-03-01,37,Female,64.1,Immunosuppressant,Oral,460.6,60,0,0.7,0,0,Physician,7,1
+FDA-AER-1000526,2024-03-01,84,Male,66.8,CNS / Neurological,Oral,572.9,31,7,0.9,0,0,Physician,21,1
+FDA-AER-1000527,2024-03-01,79,Male,53.9,CNS / Neurological,Subcutaneous,253.5,60,7,0.71,1,1,Consumer,29,1
+FDA-AER-1000528,2024-03-01,64,Female,106.4,Analgesic,Subcutaneous,87.9,81,2,0.17,0,0,Consumer,6,0
+FDA-AER-1000529,2024-03-01,33,Male,89.9,Oncology,Intravenous,486.5,115,4,0.01,0,0,Physician,9,1
+FDA-AER-1000530,2024-03-01,19,Male,53.2,Immunosuppressant,Intravenous,233.7,6,3,0.73,0,0,Pharmacist,11,0
+FDA-AER-1000531,2024-03-01,36,Female,89.2,Analgesic,Subcutaneous,325.2,73,2,0.91,1,0,Pharmacist,26,1
+FDA-AER-1000532,2024-03-01,81,Male,66.0,Immunosuppressant,Subcutaneous,470.7,40,0,0.82,0,0,Consumer,4,0
+FDA-AER-1000533,2024-03-01,49,Male,86.6,Immunosuppressant,Intravenous,353.5,31,3,0.73,0,0,Physician,6,1
+FDA-AER-1000534,2024-03-01,23,Male,90.8,Oncology,Intravenous,359.6,118,7,0.57,0,0,Physician,15,0
+FDA-AER-1000535,2024-03-01,41,Male,70.3,Cardiovascular,Oral,77.9,20,4,0.31,0,0,Pharmacist,16,0
+FDA-AER-1000536,2024-03-01,70,Female,80.5,Analgesic,Oral,523.3,11,4,0.03,0,0,Physician,1,1
+FDA-AER-1000537,2024-03-01,65,Female,101.7,Oncology,Subcutaneous,171.7,32,8,0.23,0,0,Consumer,22,0
+FDA-AER-1000538,2024-03-01,40,Female,52.4,Immunosuppressant,Subcutaneous,463.6,17,6,0.42,0,0,Consumer,4,1
+FDA-AER-1000539,2024-03-01,53,Male,69.1,CNS / Neurological,Oral,439.3,113,8,0.32,1,0,Pharmacist,9,1
+FDA-AER-1000540,2024-03-01,58,Female,71.3,Antibiotic,Subcutaneous,354.0,21,8,0.22,0,0,Consumer,29,1
+FDA-AER-1000541,2024-03-01,44,Male,57.5,Oncology,Oral,111.0,61,0,0.84,0,0,Pharmacist,3,0
+FDA-AER-1000542,2024-03-01,71,Male,53.3,CNS / Neurological,Subcutaneous,407.9,8,1,0.66,0,0,Consumer,19,0
+FDA-AER-1000543,2024-03-01,33,Male,109.4,Analgesic,Oral,539.5,50,6,0.2,0,0,Pharmacist,8,1
+FDA-AER-1000544,2024-03-01,25,Female,100.2,CNS / Neurological,Intravenous,171.8,102,5,0.89,0,0,Consumer,26,0
+FDA-AER-1000545,2024-03-01,69,Male,62.1,Oncology,Oral,229.1,51,4,0.08,0,0,Pharmacist,22,1
+FDA-AER-1000546,2024-03-01,84,Male,89.2,Immunosuppressant,Intravenous,493.2,119,8,0.44,0,0,Pharmacist,8,1
+FDA-AER-1000547,2024-03-01,53,Male,78.8,CNS / Neurological,Subcutaneous,446.4,106,8,0.68,1,0,Consumer,25,0
+FDA-AER-1000548,2024-03-01,24,Male,74.5,Immunosuppressant,Subcutaneous,230.4,61,3,0.22,0,0,Pharmacist,6,0
+FDA-AER-1000549,2024-03-01,52,Male,63.1,Analgesic,Intravenous,192.4,46,1,0.38,1,0,Pharmacist,27,0
+FDA-AER-1000550,2024-03-01,64,Male,70.3,Oncology,Oral,348.9,80,3,0.11,0,0,Consumer,2,0
+FDA-AER-1000551,2024-03-01,36,Male,109.6,Antibiotic,Intravenous,120.9,67,8,0.63,0,0,Pharmacist,24,0
+FDA-AER-1000552,2024-03-01,70,Male,56.3,Immunosuppressant,Intravenous,498.8,63,7,0.63,0,1,Physician,8,0
+FDA-AER-1000553,2024-03-01,59,Female,108.8,Cardiovascular,Subcutaneous,511.8,78,1,0.73,1,1,Physician,2,0
+FDA-AER-1000554,2024-03-01,82,Female,109.1,Immunosuppressant,Intravenous,24.2,75,5,0.59,0,0,Pharmacist,13,1
+FDA-AER-1000555,2024-03-01,65,Female,98.3,Antibiotic,Intravenous,474.0,24,7,0.43,1,0,Pharmacist,15,0
+FDA-AER-1000556,2024-03-01,58,Male,84.0,Immunosuppressant,Subcutaneous,335.5,99,6,0.18,0,0,Physician,10,1
+FDA-AER-1000557,2024-03-01,37,Female,51.2,Analgesic,Intravenous,409.9,20,6,0.15,0,0,Consumer,26,0
+FDA-AER-1000558,2024-03-01,46,Male,92.5,Immunosuppressant,Subcutaneous,64.3,113,0,0.62,1,0,Pharmacist,16,0
+FDA-AER-1000559,2024-03-01,18,Female,80.3,Antibiotic,Oral,99.5,113,6,0.56,0,0,Physician,30,1
+FDA-AER-1000560,2024-03-01,64,Male,60.8,Oncology,Intravenous,502.7,104,2,0.51,1,0,Consumer,7,0
+FDA-AER-1000561,2024-03-01,27,Female,90.8,Immunosuppressant,Intravenous,279.5,11,7,0.77,0,0,Physician,9,1
+FDA-AER-1000562,2024-03-01,44,Male,55.3,Immunosuppressant,Oral,415.4,97,0,0.39,0,0,Consumer,6,0
+FDA-AER-1000563,2024-03-01,24,Male,76.0,Oncology,Subcutaneous,599.3,98,0,0.53,0,0,Consumer,13,1
+FDA-AER-1000564,2024-03-01,48,Female,85.4,Immunosuppressant,Oral,524.7,48,7,0.06,0,0,Physician,14,1
+FDA-AER-1000565,2024-03-01,39,Male,89.6,Cardiovascular,Intravenous,453.2,97,8,0.35,0,0,Pharmacist,9,0
+FDA-AER-1000566,2024-03-01,25,Male,73.8,CNS / Neurological,Oral,463.5,71,1,0.42,1,0,Pharmacist,8,0
+FDA-AER-1000567,2024-03-01,75,Male,62.4,Antibiotic,Oral,349.0,116,3,0.26,0,1,Pharmacist,6,1
+FDA-AER-1000568,2024-03-01,68,Female,70.6,Immunosuppressant,Intravenous,343.5,26,5,0.61,1,0,Physician,3,1
+FDA-AER-1000569,2024-03-01,38,Male,76.6,Immunosuppressant,Intravenous,303.8,104,6,0.56,0,0,Physician,4,1
+FDA-AER-1000570,2024-03-01,79,Female,60.0,Immunosuppressant,Intravenous,36.2,46,8,0.45,0,0,Physician,13,1
+FDA-AER-1000571,2024-03-01,49,Male,76.0,Cardiovascular,Oral,124.0,12,7,0.22,0,0,Pharmacist,15,1
+FDA-AER-1000572,2024-03-01,41,Female,56.5,Antibiotic,Oral,127.4,97,2,0.79,0,0,Pharmacist,11,0
+FDA-AER-1000573,2024-03-01,27,Male,57.0,Antibiotic,Subcutaneous,435.0,110,2,0.77,0,0,Pharmacist,5,1
+FDA-AER-1000574,2024-03-01,24,Male,62.1,Oncology,Intravenous,401.9,8,6,0.78,1,0,Physician,8,1
+FDA-AER-1000575,2024-03-01,26,Female,59.6,CNS / Neurological,Oral,567.5,26,4,0.47,0,0,Physician,5,1
+FDA-AER-1000576,2024-03-01,35,Female,63.0,Oncology,Oral,267.5,46,7,0.44,1,0,Consumer,1,1
+FDA-AER-1000577,2024-03-01,48,Male,78.1,CNS / Neurological,Oral,22.6,10,4,0.3,0,0,Consumer,2,0
+FDA-AER-1000578,2024-03-01,40,Male,76.4,Antibiotic,Oral,342.8,45,4,0.1,1,1,Consumer,30,0
+FDA-AER-1000579,2024-03-01,71,Female,94.5,Cardiovascular,Oral,460.2,32,5,0.4,1,0,Physician,26,1
+FDA-AER-1000580,2024-03-01,47,Female,91.8,Cardiovascular,Subcutaneous,531.1,27,1,0.57,1,0,Pharmacist,25,0
+FDA-AER-1000581,2024-03-01,68,Male,63.7,Cardiovascular,Intravenous,281.1,120,3,0.59,0,0,Pharmacist,15,0
+FDA-AER-1000582,2024-03-01,65,Female,61.9,Cardiovascular,Oral,58.3,49,1,0.64,0,0,Consumer,21,0
+FDA-AER-1000583,2024-03-01,50,Male,88.4,CNS / Neurological,Subcutaneous,509.5,37,7,0.3,0,0,Pharmacist,16,1
+FDA-AER-1000584,2024-03-01,62,Male,75.9,Antibiotic,Subcutaneous,557.7,89,5,0.87,1,0,Consumer,9,1
+FDA-AER-1000585,2024-03-01,35,Female,86.9,Cardiovascular,Subcutaneous,559.6,118,0,0.07,0,0,Consumer,10,0
+FDA-AER-1000586,2024-03-01,23,Male,69.6,Cardiovascular,Intravenous,489.4,98,5,0.7,0,0,Consumer,15,0
+FDA-AER-1000587,2024-03-01,74,Female,87.4,CNS / Neurological,Oral,194.3,105,2,0.48,0,0,Consumer,14,1
+FDA-AER-1000588,2024-03-01,61,Male,73.2,Immunosuppressant,Intravenous,52.8,96,0,0.43,0,0,Consumer,2,0
+FDA-AER-1000589,2024-03-01,68,Female,69.1,Cardiovascular,Oral,214.4,75,6,0.72,1,0,Physician,22,0
+FDA-AER-1000590,2024-03-01,57,Male,107.9,CNS / Neurological,Intravenous,162.6,89,2,0.16,0,0,Consumer,27,0
+FDA-AER-1000591,2024-03-01,69,Female,66.7,Oncology,Oral,517.1,67,0,0.86,0,0,Physician,5,1
+FDA-AER-1000592,2024-03-01,42,Female,106.3,CNS / Neurological,Subcutaneous,33.7,74,6,0.06,1,0,Physician,29,1
+FDA-AER-1000593,2024-03-01,45,Male,103.5,Analgesic,Subcutaneous,100.9,19,2,0.71,0,0,Physician,10,0
+FDA-AER-1000594,2024-03-01,70,Female,73.5,Analgesic,Subcutaneous,188.0,42,8,0.05,1,0,Consumer,25,0
+FDA-AER-1000595,2024-03-01,20,Male,62.7,Cardiovascular,Subcutaneous,111.1,89,8,0.82,1,0,Consumer,8,1
+FDA-AER-1000596,2024-03-01,33,Male,94.8,Oncology,Subcutaneous,220.7,40,1,0.37,0,0,Pharmacist,8,0
+FDA-AER-1000597,2024-03-01,71,Male,50.3,CNS / Neurological,Oral,34.1,75,6,0.99,0,0,Consumer,22,1
+FDA-AER-1000598,2024-03-01,60,Female,104.3,Oncology,Intravenous,262.2,60,0,0.79,0,0,Pharmacist,3,0
+FDA-AER-1000599,2024-03-01,66,Female,70.2,CNS / Neurological,Intravenous,171.8,96,4,0.83,0,0,Pharmacist,28,0
+FDA-AER-1000600,2024-03-01,73,Male,104.0,Antibiotic,Intravenous,448.1,81,0,0.57,1,0,Pharmacist,2,1
+FDA-AER-1000601,2024-03-01,76,Female,102.8,Antibiotic,Intravenous,197.9,29,0,0.61,0,0,Pharmacist,30,0
+FDA-AER-1000602,2024-03-01,72,Male,74.3,Analgesic,Intravenous,36.4,86,2,0.62,1,0,Physician,29,0
+FDA-AER-1000603,2024-03-01,56,Female,58.1,Oncology,Intravenous,123.6,85,2,0.02,1,0,Consumer,11,0
+FDA-AER-1000604,2024-03-01,25,Male,83.4,Immunosuppressant,Intravenous,420.1,10,8,0.04,0,1,Physician,21,1
+FDA-AER-1000605,2024-03-01,56,Female,94.3,Immunosuppressant,Intravenous,426.2,6,4,0.95,0,0,Pharmacist,28,0
+FDA-AER-1000606,2024-03-01,21,Male,82.7,CNS / Neurological,Intravenous,464.3,66,4,0.15,0,0,Physician,18,1
+FDA-AER-1000607,2024-03-01,51,Male,80.1,Cardiovascular,Oral,386.4,61,4,0.38,0,1,Physician,23,0
+FDA-AER-1000608,2024-03-01,76,Female,84.7,Cardiovascular,Intravenous,278.0,52,6,0.46,0,0,Consumer,2,1
+FDA-AER-1000609,2024-03-01,32,Female,99.8,Oncology,Intravenous,565.4,50,6,0.39,0,0,Consumer,23,0
+FDA-AER-1000610,2024-03-01,24,Female,58.4,Immunosuppressant,Oral,369.4,89,1,0.68,0,0,Pharmacist,3,0
+FDA-AER-1000611,2024-03-01,37,Male,98.6,Oncology,Subcutaneous,292.2,58,5,0.73,0,0,Pharmacist,30,1
+FDA-AER-1000612,2024-03-01,25,Male,89.4,Analgesic,Oral,464.5,91,0,0.21,1,0,Physician,2,0
+FDA-AER-1000613,2024-03-01,54,Female,51.0,Antibiotic,Intravenous,234.9,88,2,0.99,0,0,Consumer,24,0
+FDA-AER-1000614,2024-03-01,48,Female,62.2,Analgesic,Subcutaneous,544.3,13,4,0.6,0,0,Pharmacist,27,0
+FDA-AER-1000615,2024-03-01,82,Male,77.3,Oncology,Subcutaneous,527.1,29,0,0.06,0,0,Pharmacist,10,0
+FDA-AER-1000616,2024-03-01,46,Male,98.6,Immunosuppressant,Intravenous,340.8,39,7,0.15,0,0,Physician,3,1
+FDA-AER-1000617,2024-03-01,43,Male,70.4,Analgesic,Intravenous,476.8,99,4,0.56,1,0,Pharmacist,6,0
+FDA-AER-1000618,2024-03-01,59,Female,60.0,CNS / Neurological,Intravenous,333.9,39,5,0.48,0,0,Pharmacist,23,1
+FDA-AER-1000619,2024-03-01,71,Male,92.6,Oncology,Intravenous,376.6,44,6,0.36,1,0,Physician,16,1
+FDA-AER-1000620,2024-03-01,76,Female,108.1,CNS / Neurological,Intravenous,96.4,74,1,0.1,0,0,Pharmacist,12,1
+FDA-AER-1000621,2024-03-01,72,Male,55.2,Analgesic,Subcutaneous,192.1,14,4,0.48,0,0,Consumer,21,0
+FDA-AER-1000622,2024-03-01,51,Female,98.5,CNS / Neurological,Oral,482.2,91,1,0.18,0,0,Consumer,9,0
+FDA-AER-1000623,2024-03-01,61,Female,83.3,Analgesic,Intravenous,367.8,74,5,0.16,0,0,Consumer,7,0
+FDA-AER-1000624,2024-03-01,56,Female,104.4,Cardiovascular,Intravenous,184.0,77,2,0.4,0,0,Pharmacist,28,0
+FDA-AER-1000625,2024-03-01,67,Female,91.0,Cardiovascular,Subcutaneous,307.3,57,6,0.69,0,0,Consumer,20,1
+FDA-AER-1000626,2024-03-01,35,Female,85.5,Immunosuppressant,Oral,272.0,95,2,0.26,0,0,Pharmacist,5,0
+FDA-AER-1000627,2024-03-01,33,Male,80.6,Immunosuppressant,Intravenous,302.7,40,1,0.5,0,1,Consumer,3,1
+FDA-AER-1000628,2024-03-01,63,Male,89.2,Antibiotic,Subcutaneous,263.9,120,2,0.61,0,1,Consumer,11,0
+FDA-AER-1000629,2024-03-01,69,Male,67.3,Oncology,Intravenous,358.2,34,6,0.27,0,0,Consumer,11,1
+FDA-AER-1000630,2024-03-01,79,Female,57.9,CNS / Neurological,Subcutaneous,405.8,61,4,0.58,0,1,Physician,10,1
+FDA-AER-1000631,2024-03-01,35,Male,103.6,CNS / Neurological,Oral,47.6,33,7,0.37,0,0,Pharmacist,13,0
+FDA-AER-1000632,2024-03-01,67,Male,57.6,Antibiotic,Oral,101.3,10,5,0.11,0,0,Pharmacist,4,1
+FDA-AER-1000633,2024-03-01,57,Male,55.4,Analgesic,Subcutaneous,462.5,59,1,0.89,0,0,Pharmacist,6,1
+FDA-AER-1000634,2024-03-01,67,Female,85.7,Analgesic,Intravenous,396.2,91,8,0.93,0,0,Pharmacist,8,0
+FDA-AER-1000635,2024-03-01,74,Female,93.8,Immunosuppressant,Intravenous,158.9,77,7,0.21,0,0,Pharmacist,1,1
+FDA-AER-1000636,2024-03-01,84,Female,71.4,CNS / Neurological,Subcutaneous,390.7,76,2,0.19,0,0,Physician,26,0
+FDA-AER-1000637,2024-03-01,51,Female,84.0,Cardiovascular,Intravenous,312.7,106,5,0.79,1,0,Consumer,4,1
+FDA-AER-1000638,2024-03-01,61,Male,93.3,Immunosuppressant,Intravenous,175.5,85,4,0.92,0,0,Pharmacist,13,0
+FDA-AER-1000639,2024-03-01,36,Male,53.9,Immunosuppressant,Oral,362.4,17,2,0.39,1,0,Consumer,4,1
+FDA-AER-1000640,2024-03-01,76,Female,81.4,Cardiovascular,Oral,224.7,77,0,0.43,0,0,Physician,13,1
+FDA-AER-1000641,2024-03-01,54,Male,80.5,Oncology,Intravenous,81.1,35,6,0.05,1,1,Consumer,12,1
+FDA-AER-1000642,2024-03-01,52,Female,58.0,Immunosuppressant,Subcutaneous,168.6,32,7,0.76,1,0,Physician,2,0
+FDA-AER-1000643,2024-03-01,77,Female,54.5,Analgesic,Intravenous,485.9,72,4,0.01,0,1,Physician,27,1
+FDA-AER-1000644,2024-03-01,70,Male,61.1,Cardiovascular,Oral,109.6,79,6,0.67,1,0,Pharmacist,29,1
+FDA-AER-1000645,2024-03-01,44,Female,109.0,CNS / Neurological,Subcutaneous,543.6,49,3,0.21,0,0,Physician,14,1
+FDA-AER-1000646,2024-03-01,20,Female,66.1,Immunosuppressant,Intravenous,554.9,107,0,0.08,0,0,Consumer,28,1
+FDA-AER-1000647,2024-03-01,32,Female,88.7,Immunosuppressant,Subcutaneous,111.5,12,4,0.52,0,0,Physician,24,0
+FDA-AER-1000648,2024-03-01,22,Female,63.3,Oncology,Intravenous,222.7,29,0,0.65,1,1,Physician,1,0
+FDA-AER-1000649,2024-03-01,32,Male,69.4,Antibiotic,Intravenous,590.3,116,1,0.08,1,1,Pharmacist,23,1
+FDA-AER-1000650,2024-03-01,35,Male,71.9,Oncology,Intravenous,269.8,76,4,0.27,0,1,Consumer,20,0
+FDA-AER-1000651,2024-03-01,25,Male,95.7,CNS / Neurological,Intravenous,144.3,115,7,0.16,0,1,Consumer,22,0
+FDA-AER-1000652,2024-03-01,64,Female,105.3,Cardiovascular,Intravenous,406.7,18,2,0.86,0,0,Consumer,10,1
+FDA-AER-1000653,2024-03-01,38,Male,87.8,Antibiotic,Oral,591.5,84,2,0.1,0,0,Consumer,29,0
+FDA-AER-1000654,2024-03-01,61,Male,104.0,Immunosuppressant,Oral,220.1,108,3,0.57,0,0,Physician,16,0
+FDA-AER-1000655,2024-03-01,75,Male,83.1,CNS / Neurological,Oral,453.7,18,2,0.33,0,0,Consumer,3,0
+FDA-AER-1000656,2024-03-01,60,Female,81.6,CNS / Neurological,Intravenous,465.7,68,5,0.35,0,0,Consumer,3,0
+FDA-AER-1000657,2024-03-01,31,Male,76.7,Immunosuppressant,Subcutaneous,552.0,87,7,0.02,0,1,Pharmacist,20,0
+FDA-AER-1000658,2024-03-01,32,Female,66.4,CNS / Neurological,Intravenous,113.4,58,2,0.39,0,0,Consumer,7,0
+FDA-AER-1000659,2024-03-01,84,Male,54.0,Oncology,Subcutaneous,62.4,23,5,0.18,0,0,Pharmacist,1,1
+FDA-AER-1000660,2024-03-01,67,Female,56.0,Immunosuppressant,Intravenous,336.4,57,2,0.16,0,0,Pharmacist,7,1
+FDA-AER-1000661,2024-03-01,53,Male,71.1,Cardiovascular,Oral,124.0,118,4,0.7,0,0,Pharmacist,9,0
+FDA-AER-1000662,2024-03-01,18,Male,72.9,CNS / Neurological,Intravenous,323.4,78,3,0.9,0,0,Physician,21,0
+FDA-AER-1000663,2024-03-01,67,Female,92.8,Cardiovascular,Subcutaneous,132.4,55,7,0.03,0,0,Consumer,29,1
+FDA-AER-1000664,2024-03-01,64,Female,78.2,Cardiovascular,Intravenous,468.7,57,6,0.28,0,0,Physician,18,1
+FDA-AER-1000665,2024-03-01,35,Male,58.8,Immunosuppressant,Intravenous,70.0,21,0,0.7,0,0,Consumer,22,0
+FDA-AER-1000666,2024-03-01,65,Female,89.1,Immunosuppressant,Oral,519.9,64,0,0.53,0,1,Pharmacist,7,1
+FDA-AER-1000667,2024-03-01,84,Female,108.0,CNS / Neurological,Subcutaneous,450.3,37,2,0.69,0,0,Consumer,14,1
+FDA-AER-1000668,2024-03-01,77,Male,55.9,Cardiovascular,Oral,170.9,107,6,0.76,0,0,Physician,9,0
+FDA-AER-1000669,2024-03-01,68,Male,107.5,Analgesic,Oral,526.6,84,3,0.57,0,1,Consumer,20,1
+FDA-AER-1000670,2024-03-01,63,Female,94.8,CNS / Neurological,Intravenous,129.5,14,7,0.12,0,0,Consumer,28,0
+FDA-AER-1000671,2024-03-01,60,Male,83.1,Oncology,Oral,547.9,87,2,0.83,0,0,Consumer,13,1
+FDA-AER-1000672,2024-03-01,22,Female,103.5,Analgesic,Oral,138.5,29,8,0.08,1,0,Pharmacist,10,1
+FDA-AER-1000673,2024-03-01,71,Female,61.6,Antibiotic,Subcutaneous,543.8,97,6,0.95,0,0,Consumer,11,0
+FDA-AER-1000674,2024-03-01,55,Female,96.1,CNS / Neurological,Oral,398.7,69,7,0.81,0,0,Physician,9,0
+FDA-AER-1000675,2024-03-01,68,Female,54.2,Cardiovascular,Intravenous,94.4,56,6,1.0,0,0,Consumer,7,0
+FDA-AER-1000676,2024-03-01,38,Male,80.9,Immunosuppressant,Subcutaneous,305.8,106,2,0.57,1,0,Consumer,14,1
+FDA-AER-1000677,2024-03-01,24,Male,81.1,Cardiovascular,Subcutaneous,356.3,66,0,0.93,0,0,Consumer,8,1
+FDA-AER-1000678,2024-03-01,73,Female,70.5,Oncology,Subcutaneous,389.0,35,8,0.13,0,0,Physician,2,0
+FDA-AER-1000679,2024-03-01,60,Male,71.0,Cardiovascular,Subcutaneous,471.7,90,1,0.61,1,0,Physician,2,1
+FDA-AER-1000680,2024-03-01,65,Male,89.2,Analgesic,Oral,74.3,63,6,0.97,0,0,Physician,10,1
+FDA-AER-1000681,2024-03-01,28,Female,84.5,Oncology,Subcutaneous,200.5,14,6,0.99,0,0,Pharmacist,12,1
+FDA-AER-1000682,2024-03-01,29,Male,76.0,Analgesic,Oral,212.0,102,0,0.63,0,0,Consumer,17,0
+FDA-AER-1000683,2024-03-01,70,Male,99.5,Antibiotic,Intravenous,146.3,45,0,0.76,0,0,Pharmacist,28,0
+FDA-AER-1000684,2024-03-01,40,Female,86.1,Antibiotic,Oral,400.3,13,1,0.51,0,0,Physician,28,1
+FDA-AER-1000685,2024-03-01,18,Female,71.6,Antibiotic,Subcutaneous,177.9,101,2,0.43,0,0,Pharmacist,15,0
+FDA-AER-1000686,2024-03-01,22,Male,69.0,Cardiovascular,Intravenous,240.3,91,7,0.74,0,0,Consumer,4,0
+FDA-AER-1000687,2024-03-01,26,Female,71.3,Immunosuppressant,Oral,444.7,81,2,0.24,0,0,Pharmacist,4,0
+FDA-AER-1000688,2024-03-01,55,Female,86.6,Antibiotic,Oral,558.6,101,4,0.82,0,0,Consumer,26,1
+FDA-AER-1000689,2024-03-01,54,Male,61.9,CNS / Neurological,Subcutaneous,371.9,23,7,0.81,0,0,Consumer,23,1
+FDA-AER-1000690,2024-03-01,53,Male,80.4,CNS / Neurological,Oral,179.1,19,2,0.64,0,0,Pharmacist,25,0
+FDA-AER-1000691,2024-03-01,54,Female,66.8,Cardiovascular,Intravenous,263.7,103,2,0.67,0,0,Physician,14,0
+FDA-AER-1000692,2024-03-01,24,Male,83.3,Oncology,Intravenous,200.5,89,6,0.3,0,0,Physician,14,1
+FDA-AER-1000693,2024-03-01,73,Male,106.3,CNS / Neurological,Oral,108.6,79,3,0.44,0,0,Pharmacist,10,0
+FDA-AER-1000694,2024-03-01,73,Female,64.5,Analgesic,Oral,285.3,70,3,0.93,1,0,Pharmacist,6,0
+FDA-AER-1000695,2024-03-01,32,Male,54.4,Cardiovascular,Oral,349.1,17,8,0.45,0,0,Pharmacist,20,1
+FDA-AER-1000696,2024-03-01,42,Female,109.6,Antibiotic,Subcutaneous,438.5,27,2,0.73,0,0,Consumer,26,1
+FDA-AER-1000697,2024-03-01,60,Female,89.3,Analgesic,Subcutaneous,310.8,41,3,0.47,1,0,Consumer,11,1
+FDA-AER-1000698,2024-03-01,46,Female,92.5,Oncology,Intravenous,240.4,74,7,0.81,0,0,Consumer,3,0
+FDA-AER-1000699,2024-03-01,82,Female,55.8,Immunosuppressant,Intravenous,245.3,50,6,0.51,1,0,Physician,17,0
+FDA-AER-1000700,2024-03-01,80,Male,80.7,Oncology,Subcutaneous,126.4,92,8,0.17,0,0,Pharmacist,6,0
+FDA-AER-1000701,2024-03-01,70,Male,100.4,Cardiovascular,Subcutaneous,45.3,111,6,0.38,0,0,Pharmacist,22,1
+FDA-AER-1000702,2024-03-01,42,Male,96.5,Oncology,Intravenous,146.2,40,2,0.86,1,0,Pharmacist,2,0
+FDA-AER-1000703,2024-03-01,40,Male,53.8,Oncology,Oral,451.1,49,0,0.71,0,0,Physician,20,0
+FDA-AER-1000704,2024-03-01,56,Male,55.4,CNS / Neurological,Intravenous,410.3,57,5,0.04,0,0,Pharmacist,3,0
+FDA-AER-1000705,2024-03-01,48,Female,59.6,CNS / Neurological,Oral,568.3,18,8,0.18,0,0,Pharmacist,21,1
+FDA-AER-1000706,2024-03-01,80,Female,84.9,Analgesic,Subcutaneous,571.0,99,8,0.44,0,0,Consumer,21,1
+FDA-AER-1000707,2024-03-01,32,Male,69.7,CNS / Neurological,Oral,441.2,14,0,0.59,0,1,Consumer,4,1
+FDA-AER-1000708,2024-03-01,42,Male,55.8,Analgesic,Subcutaneous,477.8,72,3,0.7,0,0,Consumer,10,1
+FDA-AER-1000709,2024-03-01,44,Female,62.2,Analgesic,Subcutaneous,352.0,70,6,0.12,0,0,Pharmacist,24,0
+FDA-AER-1000710,2024-03-01,53,Male,71.1,CNS / Neurological,Intravenous,87.9,65,2,0.92,0,0,Pharmacist,16,0
+FDA-AER-1000711,2024-03-01,61,Female,108.1,Immunosuppressant,Subcutaneous,213.5,37,5,0.97,0,0,Consumer,15,0
+FDA-AER-1000712,2024-03-01,80,Male,73.6,Cardiovascular,Subcutaneous,502.1,100,8,0.23,0,0,Physician,3,0
+FDA-AER-1000713,2024-03-01,73,Female,65.5,Cardiovascular,Intravenous,516.2,70,2,0.1,0,0,Pharmacist,19,0
+FDA-AER-1000714,2024-03-01,21,Male,50.5,Analgesic,Oral,120.5,106,7,0.2,0,0,Consumer,28,1
+FDA-AER-1000715,2024-03-01,53,Male,52.4,Analgesic,Oral,569.6,46,6,0.17,0,0,Pharmacist,29,1
+FDA-AER-1000716,2024-03-01,26,Male,72.7,Immunosuppressant,Oral,534.3,50,8,0.03,0,0,Consumer,23,0
+FDA-AER-1000717,2024-03-01,49,Female,59.7,Cardiovascular,Subcutaneous,495.9,54,7,0.87,1,0,Physician,2,1
+FDA-AER-1000718,2024-03-01,75,Female,96.4,Antibiotic,Subcutaneous,386.6,106,8,0.5,1,0,Consumer,23,1
+FDA-AER-1000719,2024-03-01,51,Male,78.2,Antibiotic,Oral,413.5,49,7,0.74,0,0,Pharmacist,7,1
+FDA-AER-1000720,2024-03-01,55,Male,50.3,Immunosuppressant,Subcutaneous,37.3,116,5,0.27,0,0,Pharmacist,28,1
+FDA-AER-1000721,2024-03-01,24,Male,88.5,Antibiotic,Intravenous,125.6,80,3,0.25,1,0,Pharmacist,15,0
+FDA-AER-1000722,2024-03-01,76,Male,94.9,Oncology,Oral,261.0,116,8,0.48,1,0,Pharmacist,27,1
+FDA-AER-1000723,2024-03-01,59,Male,104.5,Cardiovascular,Subcutaneous,243.1,84,1,0.53,0,0,Consumer,27,0
+FDA-AER-1000724,2024-03-01,21,Female,59.4,Oncology,Oral,520.6,100,1,0.15,0,0,Consumer,3,1
+FDA-AER-1000725,2024-03-01,25,Female,55.0,Antibiotic,Intravenous,39.6,78,6,0.02,0,0,Consumer,10,1
+FDA-AER-1000726,2024-03-01,82,Male,72.4,Analgesic,Intravenous,414.3,39,4,0.96,0,0,Pharmacist,2,1
+FDA-AER-1000727,2024-03-01,18,Male,95.4,Analgesic,Intravenous,403.3,14,3,0.56,1,0,Physician,13,1
+FDA-AER-1000728,2024-03-01,20,Male,52.7,CNS / Neurological,Oral,521.5,18,8,0.84,0,0,Pharmacist,16,1
+FDA-AER-1000729,2024-03-01,80,Male,94.8,Analgesic,Subcutaneous,539.9,48,3,0.07,1,0,Physician,3,0
+FDA-AER-1000730,2024-03-01,21,Male,83.0,CNS / Neurological,Intravenous,134.6,101,8,0.33,0,0,Physician,17,1
+FDA-AER-1000731,2024-03-01,68,Male,67.1,Oncology,Intravenous,554.3,21,4,0.08,0,0,Consumer,14,1
+FDA-AER-1000732,2024-03-01,70,Male,100.8,Cardiovascular,Subcutaneous,58.0,118,5,0.72,0,0,Consumer,11,0
+FDA-AER-1000733,2024-03-01,42,Female,99.3,CNS / Neurological,Oral,127.1,73,3,0.37,0,0,Pharmacist,6,0
+FDA-AER-1000734,2024-03-01,20,Female,98.0,Immunosuppressant,Oral,573.1,42,1,0.8,0,0,Pharmacist,4,1
+FDA-AER-1000735,2024-03-01,48,Male,86.7,Cardiovascular,Subcutaneous,258.8,78,1,0.05,0,0,Physician,3,0
+FDA-AER-1000736,2024-03-01,24,Female,52.4,Immunosuppressant,Intravenous,357.1,12,2,0.59,0,0,Physician,15,0
+FDA-AER-1000737,2024-03-01,83,Male,80.5,CNS / Neurological,Oral,272.7,99,6,0.46,0,0,Consumer,17,1
+FDA-AER-1000738,2024-03-01,57,Female,60.4,CNS / Neurological,Intravenous,72.1,62,5,0.67,0,0,Consumer,2,0
+FDA-AER-1000739,2024-03-01,32,Male,109.4,CNS / Neurological,Intravenous,150.7,48,6,0.41,0,0,Consumer,30,0
+FDA-AER-1000740,2024-03-01,82,Male,100.6,Cardiovascular,Intravenous,309.2,115,0,0.47,0,0,Pharmacist,7,1
+FDA-AER-1000741,2024-03-01,67,Male,61.2,CNS / Neurological,Intravenous,451.9,107,2,0.49,0,0,Physician,24,1
+FDA-AER-1000742,2024-03-01,66,Male,60.3,Analgesic,Oral,314.4,86,3,0.76,0,0,Pharmacist,24,1
+FDA-AER-1000743,2024-03-01,41,Female,108.9,CNS / Neurological,Intravenous,97.0,94,0,0.84,0,0,Consumer,22,0
+FDA-AER-1000744,2024-03-01,80,Female,57.8,Immunosuppressant,Oral,21.3,77,4,0.63,0,0,Pharmacist,18,1
+FDA-AER-1000745,2024-03-01,50,Male,57.5,Analgesic,Oral,455.3,17,5,0.55,0,0,Consumer,13,1
+FDA-AER-1000746,2024-03-01,62,Male,65.4,Cardiovascular,Subcutaneous,107.2,53,3,0.26,0,0,Pharmacist,17,0
+FDA-AER-1000747,2024-03-01,55,Female,54.8,Cardiovascular,Subcutaneous,119.8,79,0,0.6,1,0,Physician,20,0
+FDA-AER-1000748,2024-03-01,78,Female,90.2,Antibiotic,Oral,249.3,33,5,0.02,0,0,Pharmacist,16,1
+FDA-AER-1000749,2024-03-01,61,Male,92.1,CNS / Neurological,Oral,257.2,91,6,0.53,0,0,Physician,29,1
+FDA-AER-1000750,2024-03-01,64,Male,76.2,Cardiovascular,Subcutaneous,447.6,94,0,0.82,0,1,Consumer,14,0
+FDA-AER-1000751,2024-03-01,60,Female,71.3,CNS / Neurological,Oral,305.9,33,5,0.6,0,0,Physician,16,1
+FDA-AER-1000752,2024-03-01,42,Female,82.3,Oncology,Subcutaneous,230.0,22,8,0.97,0,0,Physician,16,0
+FDA-AER-1000753,2024-03-01,20,Female,87.1,Cardiovascular,Subcutaneous,42.3,27,4,0.64,1,1,Pharmacist,9,0
+FDA-AER-1000754,2024-03-01,39,Female,109.6,Oncology,Intravenous,195.0,82,1,0.94,0,0,Consumer,5,0
+FDA-AER-1000755,2024-03-01,55,Female,76.6,Antibiotic,Subcutaneous,210.2,118,2,0.02,0,0,Pharmacist,24,0
+FDA-AER-1000756,2024-03-01,85,Male,107.1,Cardiovascular,Intravenous,190.1,44,4,0.88,0,1,Pharmacist,17,1
+FDA-AER-1000757,2024-03-01,41,Male,58.6,CNS / Neurological,Oral,256.8,49,5,0.15,0,0,Physician,29,1
+FDA-AER-1000758,2024-03-01,30,Female,86.2,Oncology,Oral,458.0,46,4,0.37,0,0,Physician,24,0
+FDA-AER-1000759,2024-03-01,85,Male,70.7,Immunosuppressant,Subcutaneous,440.1,14,8,0.0,0,0,Physician,24,0
+FDA-AER-1000760,2024-03-01,66,Female,80.3,Antibiotic,Intravenous,21.5,34,5,0.06,0,0,Physician,15,0
+FDA-AER-1000761,2024-03-01,22,Male,72.6,Oncology,Subcutaneous,526.1,5,3,0.54,0,0,Pharmacist,14,1
+FDA-AER-1000762,2024-03-01,57,Female,82.6,Analgesic,Subcutaneous,396.0,75,6,0.64,1,0,Physician,21,0
+FDA-AER-1000763,2024-03-01,54,Male,65.5,Immunosuppressant,Oral,460.5,32,1,0.23,0,0,Physician,8,1
+FDA-AER-1000764,2024-03-01,60,Female,85.8,Immunosuppressant,Intravenous,94.8,79,2,0.3,0,0,Pharmacist,19,0
+FDA-AER-1000765,2024-03-01,85,Male,96.7,Immunosuppressant,Oral,107.3,8,2,0.33,0,0,Pharmacist,22,0
+FDA-AER-1000766,2024-03-01,26,Male,55.5,Antibiotic,Subcutaneous,460.0,43,0,0.35,0,1,Physician,10,1
+FDA-AER-1000767,2024-03-01,34,Male,91.7,Immunosuppressant,Oral,138.8,99,1,0.37,0,0,Physician,18,0
+FDA-AER-1000768,2024-03-01,55,Female,63.8,Oncology,Intravenous,549.8,27,3,0.2,0,0,Physician,7,0
+FDA-AER-1000769,2024-03-01,22,Female,84.3,Immunosuppressant,Subcutaneous,416.8,117,8,0.86,0,0,Consumer,8,1
+FDA-AER-1000770,2024-03-01,39,Male,65.3,Cardiovascular,Intravenous,452.8,9,5,0.44,1,0,Pharmacist,10,0
+FDA-AER-1000771,2024-03-01,46,Female,73.8,Oncology,Intravenous,93.1,27,0,0.24,1,1,Consumer,15,0
+FDA-AER-1000772,2024-03-01,31,Female,108.8,Cardiovascular,Subcutaneous,333.9,12,0,0.32,0,0,Physician,28,1
+FDA-AER-1000773,2024-03-01,55,Male,70.2,Immunosuppressant,Intravenous,577.5,96,8,0.88,0,1,Consumer,7,1
+FDA-AER-1000774,2024-03-01,61,Male,92.4,Oncology,Subcutaneous,234.0,10,1,0.27,0,0,Consumer,22,0
+FDA-AER-1000775,2024-03-01,73,Male,105.6,Analgesic,Intravenous,552.8,65,0,0.06,0,0,Consumer,29,1
+FDA-AER-1000776,2024-03-01,37,Male,64.4,Oncology,Oral,225.2,68,0,0.63,1,0,Physician,23,0
+FDA-AER-1000777,2024-03-01,83,Female,59.9,CNS / Neurological,Oral,589.8,75,0,0.6,0,0,Consumer,26,1
+FDA-AER-1000778,2024-03-01,32,Male,93.8,CNS / Neurological,Oral,92.2,104,3,0.76,0,0,Physician,18,0
+FDA-AER-1000779,2024-03-01,44,Female,96.1,Cardiovascular,Subcutaneous,157.8,107,0,0.89,0,0,Consumer,7,0
+FDA-AER-1000780,2024-03-01,59,Female,61.8,Cardiovascular,Subcutaneous,273.6,72,5,0.06,0,0,Physician,23,1
+FDA-AER-1000781,2024-03-01,44,Male,83.6,Oncology,Oral,578.3,106,0,0.64,1,0,Physician,30,1
+FDA-AER-1000782,2024-03-01,51,Female,67.1,Cardiovascular,Oral,45.3,63,3,0.21,0,0,Physician,30,0
+FDA-AER-1000783,2024-03-01,73,Female,51.0,Cardiovascular,Subcutaneous,294.3,10,8,0.6,0,0,Physician,3,1
+FDA-AER-1000784,2024-03-01,79,Male,105.9,Antibiotic,Intravenous,36.6,42,5,0.36,0,0,Consumer,4,0
+FDA-AER-1000785,2024-03-01,78,Female,94.2,Immunosuppressant,Oral,169.6,58,8,0.48,0,0,Physician,4,1
+FDA-AER-1000786,2024-03-01,56,Female,100.4,Analgesic,Oral,85.3,25,0,0.38,0,0,Physician,30,0
+FDA-AER-1000787,2024-03-01,79,Male,93.1,Immunosuppressant,Oral,521.0,34,2,0.58,0,0,Physician,3,1
+FDA-AER-1000788,2024-03-01,75,Male,108.2,Oncology,Subcutaneous,165.2,82,0,0.47,0,0,Pharmacist,9,1
+FDA-AER-1000789,2024-03-01,33,Female,61.2,CNS / Neurological,Oral,160.2,73,5,0.97,1,0,Physician,8,1
+FDA-AER-1000790,2024-03-01,54,Female,60.8,Immunosuppressant,Subcutaneous,334.3,43,2,0.02,0,0,Consumer,16,0
+FDA-AER-1000791,2024-03-01,68,Male,79.2,Cardiovascular,Subcutaneous,469.6,79,5,0.03,1,0,Consumer,10,1
+FDA-AER-1000792,2024-03-01,75,Female,52.4,Immunosuppressant,Intravenous,324.2,84,7,0.13,0,0,Pharmacist,29,1
+FDA-AER-1000793,2024-03-01,42,Female,94.5,Analgesic,Oral,316.7,53,7,0.21,0,0,Consumer,23,0
+FDA-AER-1000794,2024-03-01,19,Female,79.7,Antibiotic,Oral,290.1,80,7,0.33,0,0,Pharmacist,28,1
+FDA-AER-1000795,2024-03-01,29,Female,73.3,CNS / Neurological,Oral,66.4,36,3,0.12,0,0,Consumer,21,0
+FDA-AER-1000796,2024-03-01,44,Male,74.4,Immunosuppressant,Subcutaneous,461.9,77,7,0.7,0,0,Consumer,8,1
+FDA-AER-1000797,2024-03-01,31,Female,80.0,Analgesic,Intravenous,141.7,120,5,0.97,0,0,Pharmacist,2,1
+FDA-AER-1000798,2024-03-01,77,Female,59.0,CNS / Neurological,Oral,195.5,76,3,0.35,0,0,Physician,29,1
+FDA-AER-1000799,2024-03-01,36,Male,83.6,Cardiovascular,Subcutaneous,307.3,42,6,0.1,0,0,Physician,12,0
+FDA-AER-1000800,2024-03-01,80,Male,63.4,CNS / Neurological,Subcutaneous,505.2,113,1,0.54,1,0,Pharmacist,29,0
+FDA-AER-1000801,2024-03-01,51,Male,106.0,Immunosuppressant,Subcutaneous,100.2,69,5,0.9,0,0,Consumer,4,1
+FDA-AER-1000802,2024-03-01,56,Female,81.0,Antibiotic,Subcutaneous,37.4,92,1,0.32,0,0,Consumer,13,0
+FDA-AER-1000803,2024-03-01,49,Female,81.6,Cardiovascular,Intravenous,34.5,120,2,0.27,0,0,Consumer,28,0
+FDA-AER-1000804,2024-03-01,51,Female,89.2,CNS / Neurological,Subcutaneous,376.4,100,5,0.49,0,0,Pharmacist,4,1
+FDA-AER-1000805,2024-03-01,83,Female,51.0,Antibiotic,Oral,315.3,37,5,0.23,0,0,Physician,28,0
+FDA-AER-1000806,2024-03-01,68,Female,84.8,CNS / Neurological,Subcutaneous,371.2,42,3,0.91,0,0,Physician,16,0
+FDA-AER-1000807,2024-03-01,40,Female,70.9,Cardiovascular,Oral,380.6,17,6,0.47,0,0,Pharmacist,22,1
+FDA-AER-1000808,2024-03-01,77,Female,60.5,Antibiotic,Subcutaneous,530.5,25,2,0.22,0,0,Pharmacist,28,1
+FDA-AER-1000809,2024-03-01,54,Male,76.3,Cardiovascular,Intravenous,511.6,47,6,0.12,0,0,Physician,20,1
+FDA-AER-1000810,2024-03-01,85,Female,66.6,CNS / Neurological,Oral,241.2,23,7,0.25,0,0,Pharmacist,2,1
+FDA-AER-1000811,2024-03-01,61,Female,104.8,CNS / Neurological,Intravenous,389.8,116,1,0.15,0,0,Pharmacist,28,1
+FDA-AER-1000812,2024-03-01,50,Female,84.4,Immunosuppressant,Intravenous,330.2,77,8,0.36,0,0,Pharmacist,12,1
+FDA-AER-1000813,2024-03-01,27,Female,57.1,CNS / Neurological,Intravenous,392.4,41,8,0.21,0,0,Pharmacist,29,1
+FDA-AER-1000814,2024-03-01,22,Male,77.9,Oncology,Oral,79.7,17,4,0.94,0,0,Pharmacist,27,0
+FDA-AER-1000815,2024-03-01,82,Female,104.0,Cardiovascular,Oral,51.9,101,0,0.92,0,0,Physician,9,1
+FDA-AER-1000816,2024-03-01,47,Male,63.4,Oncology,Subcutaneous,59.9,17,0,0.74,0,0,Consumer,28,0
+FDA-AER-1000817,2024-03-01,38,Female,91.8,Antibiotic,Oral,334.1,49,6,0.19,1,0,Consumer,28,1
+FDA-AER-1000818,2024-03-01,33,Female,96.4,Immunosuppressant,Oral,507.0,90,4,0.17,0,0,Physician,17,0
+FDA-AER-1000819,2024-03-01,49,Female,58.9,Oncology,Subcutaneous,223.5,51,4,0.24,0,0,Pharmacist,22,0
+FDA-AER-1000820,2024-03-01,79,Male,62.6,Immunosuppressant,Intravenous,260.4,11,1,0.44,0,0,Consumer,20,1
+FDA-AER-1000821,2024-03-01,24,Female,85.9,CNS / Neurological,Intravenous,328.0,80,7,0.38,0,0,Pharmacist,18,1
+FDA-AER-1000822,2024-03-01,47,Male,87.2,Analgesic,Subcutaneous,23.3,34,2,0.23,0,0,Physician,13,0
+FDA-AER-1000823,2024-03-01,26,Male,55.5,Immunosuppressant,Oral,590.8,21,0,0.55,0,0,Physician,13,1
+FDA-AER-1000824,2024-03-01,71,Male,88.2,Immunosuppressant,Subcutaneous,38.8,97,0,0.65,0,1,Pharmacist,21,1
+FDA-AER-1000825,2024-03-01,41,Male,108.3,Analgesic,Subcutaneous,152.8,35,1,0.22,0,1,Pharmacist,24,0
+FDA-AER-1000826,2024-03-01,32,Male,56.2,Immunosuppressant,Oral,434.9,43,0,0.36,0,0,Pharmacist,6,1
+FDA-AER-1000827,2024-03-01,58,Female,77.3,CNS / Neurological,Intravenous,515.7,42,8,0.55,1,0,Consumer,27,1
+FDA-AER-1000828,2024-03-01,30,Male,104.4,Antibiotic,Oral,230.2,10,4,0.35,0,0,Pharmacist,13,0
+FDA-AER-1000829,2024-03-01,29,Male,92.3,Immunosuppressant,Intravenous,468.2,18,3,0.95,0,0,Physician,23,1
+FDA-AER-1000830,2024-03-01,33,Female,108.1,Analgesic,Subcutaneous,357.9,21,4,0.97,0,0,Pharmacist,5,1
+FDA-AER-1000831,2024-03-01,22,Male,58.9,CNS / Neurological,Oral,155.7,62,4,0.27,0,0,Pharmacist,22,0
+FDA-AER-1000832,2024-03-01,57,Female,64.5,Antibiotic,Oral,582.1,100,2,0.79,0,0,Pharmacist,27,0
+FDA-AER-1000833,2024-03-01,83,Male,85.9,CNS / Neurological,Intravenous,408.1,91,4,0.14,0,0,Physician,29,1
+FDA-AER-1000834,2024-03-01,21,Female,79.6,Antibiotic,Subcutaneous,300.1,23,3,0.28,0,0,Physician,2,0
+FDA-AER-1000835,2024-03-01,52,Male,108.8,Oncology,Subcutaneous,173.5,51,0,0.11,0,0,Physician,12,0
+FDA-AER-1000836,2024-03-01,36,Female,53.9,Analgesic,Subcutaneous,59.8,108,3,0.51,0,0,Physician,30,0
+FDA-AER-1000837,2024-03-01,60,Female,99.3,Oncology,Intravenous,65.3,71,5,0.31,0,1,Physician,22,1
+FDA-AER-1000838,2024-03-01,45,Female,71.2,Cardiovascular,Intravenous,490.7,117,3,0.59,0,0,Pharmacist,25,1
+FDA-AER-1000839,2024-03-01,50,Female,89.1,Antibiotic,Oral,66.3,34,2,0.66,0,0,Consumer,26,0
+FDA-AER-1000840,2024-03-01,36,Male,103.6,CNS / Neurological,Intravenous,204.9,47,6,0.13,1,0,Physician,8,1
+FDA-AER-1000841,2024-03-01,69,Male,82.9,Immunosuppressant,Oral,254.4,50,0,0.96,0,0,Physician,1,0
+FDA-AER-1000842,2024-03-01,76,Male,92.3,CNS / Neurological,Intravenous,523.6,114,1,0.84,0,0,Physician,14,1
+FDA-AER-1000843,2024-03-01,32,Male,67.6,Analgesic,Oral,272.5,73,0,0.29,0,0,Consumer,13,0
+FDA-AER-1000844,2024-03-01,48,Male,94.2,CNS / Neurological,Intravenous,272.2,106,3,0.87,0,0,Pharmacist,14,0
+FDA-AER-1000845,2024-03-01,82,Male,90.7,Analgesic,Oral,167.6,97,8,0.13,1,0,Pharmacist,15,1
+FDA-AER-1000846,2024-03-01,85,Male,107.6,Cardiovascular,Subcutaneous,41.7,84,1,0.87,1,0,Consumer,18,0
+FDA-AER-1000847,2024-03-01,52,Male,93.6,Immunosuppressant,Subcutaneous,394.3,86,5,0.9,0,0,Consumer,8,1
+FDA-AER-1000848,2024-03-01,63,Female,50.0,Analgesic,Intravenous,142.1,102,2,0.42,0,0,Physician,30,0
+FDA-AER-1000849,2024-03-01,65,Male,108.5,Oncology,Oral,198.9,6,8,0.58,1,0,Consumer,13,1
+FDA-AER-1000850,2024-03-01,38,Male,86.0,Antibiotic,Intravenous,391.5,5,4,0.17,0,0,Pharmacist,1,1
+FDA-AER-1000851,2024-03-01,56,Female,101.5,Antibiotic,Subcutaneous,120.4,29,3,0.78,0,0,Pharmacist,6,0
+FDA-AER-1000852,2024-03-01,25,Male,62.7,Oncology,Subcutaneous,273.8,87,6,0.79,0,0,Consumer,10,0
+FDA-AER-1000853,2024-03-01,79,Female,78.6,CNS / Neurological,Subcutaneous,23.7,70,0,0.5,0,1,Physician,13,1
+FDA-AER-1000854,2024-03-01,36,Male,76.9,Analgesic,Oral,307.5,49,5,1.0,0,0,Consumer,28,1
+FDA-AER-1000855,2024-03-01,64,Male,55.6,CNS / Neurological,Oral,393.8,59,3,0.16,0,0,Physician,18,1
+FDA-AER-1000856,2024-03-01,30,Female,60.1,Analgesic,Oral,488.6,46,1,0.38,0,0,Physician,18,1
+FDA-AER-1000857,2024-03-01,21,Female,66.2,Immunosuppressant,Subcutaneous,25.3,23,5,0.18,0,0,Consumer,12,0
+FDA-AER-1000858,2024-03-01,80,Male,109.3,Immunosuppressant,Subcutaneous,119.0,83,4,0.35,0,0,Pharmacist,8,1
+FDA-AER-1000859,2024-03-01,68,Female,98.7,CNS / Neurological,Intravenous,272.2,51,1,0.53,1,0,Consumer,22,1
+FDA-AER-1000860,2024-03-01,45,Female,100.2,Cardiovascular,Oral,383.3,53,3,0.3,1,0,Pharmacist,11,1
+FDA-AER-1000861,2024-03-01,72,Male,106.8,Oncology,Subcutaneous,156.7,119,4,0.93,0,0,Pharmacist,29,1
+FDA-AER-1000862,2024-03-01,39,Male,93.3,Analgesic,Subcutaneous,336.6,20,0,0.65,0,0,Physician,1,0
+FDA-AER-1000863,2024-03-01,55,Male,96.6,CNS / Neurological,Subcutaneous,451.4,90,3,0.38,0,0,Physician,25,1
+FDA-AER-1000864,2024-03-01,70,Male,81.5,Oncology,Subcutaneous,596.6,53,7,0.25,0,0,Physician,25,0
+FDA-AER-1000865,2024-03-01,18,Male,57.6,CNS / Neurological,Intravenous,27.5,21,0,0.04,0,1,Physician,4,0
+FDA-AER-1000866,2024-03-01,60,Female,88.1,Immunosuppressant,Oral,289.5,58,7,0.36,1,0,Consumer,7,1
+FDA-AER-1000867,2024-03-01,83,Male,95.2,Analgesic,Subcutaneous,592.7,96,5,0.18,0,0,Physician,14,1
+FDA-AER-1000868,2024-03-01,41,Female,106.8,Antibiotic,Intravenous,556.7,79,6,0.84,0,0,Consumer,22,0
+FDA-AER-1000869,2024-03-01,40,Male,92.6,Immunosuppressant,Intravenous,231.0,98,8,0.19,0,0,Physician,10,1
+FDA-AER-1000870,2024-03-01,82,Female,71.8,Cardiovascular,Intravenous,194.2,61,3,0.44,0,0,Pharmacist,19,0
+FDA-AER-1000871,2024-03-01,75,Male,83.5,Oncology,Oral,286.0,65,3,0.03,0,0,Physician,16,1
+FDA-AER-1000872,2024-03-01,83,Female,55.7,CNS / Neurological,Intravenous,375.2,12,5,0.18,0,0,Consumer,17,1
+FDA-AER-1000873,2024-03-01,35,Male,96.9,Cardiovascular,Intravenous,595.2,68,2,0.04,0,0,Physician,30,1
+FDA-AER-1000874,2024-03-01,85,Male,70.2,Immunosuppressant,Oral,504.3,109,2,0.27,0,0,Pharmacist,6,1
+FDA-AER-1000875,2024-03-01,68,Male,54.5,Analgesic,Intravenous,137.1,113,1,0.58,0,0,Pharmacist,17,1
+FDA-AER-1000876,2024-03-01,31,Female,76.1,CNS / Neurological,Subcutaneous,106.7,118,8,0.23,1,1,Pharmacist,16,1
+FDA-AER-1000877,2024-03-01,76,Male,81.2,Antibiotic,Oral,319.3,81,4,0.79,0,1,Consumer,26,1
+FDA-AER-1000878,2024-03-01,19,Female,76.5,Cardiovascular,Intravenous,400.9,39,3,0.79,0,0,Pharmacist,6,1
+FDA-AER-1000879,2024-03-01,83,Male,55.6,Oncology,Subcutaneous,338.9,120,6,0.44,1,0,Pharmacist,2,0
+FDA-AER-1000880,2024-03-01,33,Male,97.4,Oncology,Subcutaneous,493.8,44,4,0.32,1,0,Consumer,11,1
+FDA-AER-1000881,2024-03-01,33,Male,67.3,CNS / Neurological,Oral,265.1,43,7,0.27,0,0,Physician,16,1
+FDA-AER-1000882,2024-03-01,80,Male,52.6,Antibiotic,Subcutaneous,542.9,8,4,0.8,0,1,Pharmacist,1,1
+FDA-AER-1000883,2024-03-01,84,Male,51.3,CNS / Neurological,Subcutaneous,159.9,106,6,0.46,0,0,Pharmacist,20,0
+FDA-AER-1000884,2024-03-01,47,Male,60.7,Immunosuppressant,Oral,229.3,118,4,0.19,0,0,Consumer,9,0
+FDA-AER-1000885,2024-03-01,25,Female,77.2,Antibiotic,Oral,331.3,117,7,0.13,0,0,Pharmacist,14,1
+FDA-AER-1000886,2024-03-01,76,Male,89.5,Cardiovascular,Intravenous,46.9,52,2,0.51,0,0,Consumer,3,0
+FDA-AER-1000887,2024-03-01,48,Female,100.7,CNS / Neurological,Subcutaneous,490.0,89,3,0.34,0,0,Consumer,27,1
+FDA-AER-1000888,2024-03-01,28,Female,62.3,Cardiovascular,Subcutaneous,254.6,24,2,0.53,0,0,Consumer,21,0
+FDA-AER-1000889,2024-03-01,61,Male,59.1,Oncology,Subcutaneous,421.3,82,8,0.55,0,0,Consumer,14,1
+FDA-AER-1000890,2024-03-01,43,Male,96.3,CNS / Neurological,Oral,28.7,111,4,0.01,0,0,Pharmacist,2,0
+FDA-AER-1000891,2024-03-01,32,Male,97.6,Antibiotic,Subcutaneous,87.9,60,5,0.69,0,0,Pharmacist,21,1
+FDA-AER-1000892,2024-03-01,52,Female,71.8,Immunosuppressant,Subcutaneous,45.9,77,0,0.93,1,1,Consumer,9,0
+FDA-AER-1000893,2024-03-01,79,Female,82.5,CNS / Neurological,Subcutaneous,75.6,78,2,0.0,0,0,Pharmacist,16,1
+FDA-AER-1000894,2024-03-01,42,Female,62.4,Immunosuppressant,Subcutaneous,397.8,25,1,0.68,0,0,Pharmacist,12,1
+FDA-AER-1000895,2024-03-01,69,Male,102.4,Analgesic,Subcutaneous,373.0,50,2,0.66,1,0,Physician,6,1
+FDA-AER-1000896,2024-03-01,52,Female,102.4,Immunosuppressant,Intravenous,599.5,36,3,0.86,0,0,Physician,25,1
+FDA-AER-1000897,2024-03-01,38,Female,57.8,Cardiovascular,Subcutaneous,439.1,92,1,0.05,0,1,Pharmacist,12,1
+FDA-AER-1000898,2024-03-01,39,Female,101.1,Cardiovascular,Oral,57.9,44,2,0.78,0,0,Pharmacist,19,0
+FDA-AER-1000899,2024-03-01,82,Male,51.2,Cardiovascular,Intravenous,105.0,119,5,0.25,0,0,Consumer,22,1
+FDA-AER-1000900,2024-03-01,76,Male,109.6,Immunosuppressant,Oral,453.5,30,6,0.62,0,1,Consumer,6,1
+FDA-AER-1000901,2024-03-01,63,Female,81.8,Oncology,Oral,150.8,66,1,0.5,0,0,Pharmacist,12,0
+FDA-AER-1000902,2024-03-01,77,Female,74.6,Antibiotic,Intravenous,187.5,23,3,0.91,0,0,Physician,19,1
+FDA-AER-1000903,2024-03-01,53,Male,91.6,Antibiotic,Intravenous,360.9,32,7,0.34,0,0,Physician,28,0
+FDA-AER-1000904,2024-03-01,82,Male,71.8,CNS / Neurological,Subcutaneous,179.8,41,2,0.07,0,0,Pharmacist,7,0
+FDA-AER-1000905,2024-03-01,59,Female,60.1,Cardiovascular,Intravenous,335.5,59,1,0.43,0,0,Consumer,26,1
+FDA-AER-1000906,2024-03-01,52,Male,51.1,Cardiovascular,Oral,545.0,39,7,0.46,0,0,Physician,10,0
+FDA-AER-1000907,2024-03-01,73,Male,85.4,Oncology,Oral,250.0,51,6,0.23,0,0,Physician,1,1
+FDA-AER-1000908,2024-03-01,38,Male,98.4,Cardiovascular,Oral,291.4,18,0,0.89,0,0,Physician,13,0
+FDA-AER-1000909,2024-03-01,28,Female,70.3,Immunosuppressant,Intravenous,88.0,14,8,0.05,0,0,Physician,14,1
+FDA-AER-1000910,2024-03-01,35,Male,96.0,Oncology,Oral,530.7,94,3,0.44,0,0,Consumer,12,0
+FDA-AER-1000911,2024-03-01,33,Female,55.1,Oncology,Oral,527.0,27,2,0.55,0,0,Pharmacist,9,1
+FDA-AER-1000912,2024-03-01,61,Male,86.0,Cardiovascular,Oral,260.2,82,6,0.86,0,0,Consumer,14,1
+FDA-AER-1000913,2024-03-01,47,Male,87.9,Immunosuppressant,Intravenous,565.6,71,0,0.04,0,0,Pharmacist,10,1
+FDA-AER-1000914,2024-03-01,66,Male,57.3,CNS / Neurological,Subcutaneous,292.5,45,3,0.38,0,1,Physician,6,0
+FDA-AER-1000915,2024-03-01,55,Male,57.4,Cardiovascular,Oral,63.8,82,0,0.83,0,1,Pharmacist,15,0
+FDA-AER-1000916,2024-03-01,33,Female,93.2,Immunosuppressant,Intravenous,512.6,105,4,0.51,0,0,Physician,15,0
+FDA-AER-1000917,2024-03-01,30,Male,88.3,Antibiotic,Subcutaneous,284.9,35,8,0.17,0,0,Physician,6,1
+FDA-AER-1000918,2024-03-01,66,Male,65.2,Antibiotic,Intravenous,40.3,88,4,0.01,1,0,Physician,30,1
+FDA-AER-1000919,2024-03-01,31,Male,79.2,Oncology,Intravenous,254.3,55,8,0.57,0,0,Physician,24,1
+FDA-AER-1000920,2024-03-01,41,Male,71.0,Oncology,Oral,499.2,117,0,0.9,0,0,Pharmacist,28,1
+FDA-AER-1000921,2024-03-01,62,Male,96.7,Antibiotic,Subcutaneous,166.8,64,2,0.12,0,0,Pharmacist,2,0
+FDA-AER-1000922,2024-03-01,59,Male,74.6,CNS / Neurological,Intravenous,23.2,26,0,0.94,0,0,Consumer,4,0
+FDA-AER-1000923,2024-03-01,47,Female,90.4,Antibiotic,Subcutaneous,428.5,71,5,0.85,1,0,Pharmacist,26,0
+FDA-AER-1000924,2024-03-01,55,Male,63.3,Oncology,Subcutaneous,537.5,51,7,0.97,0,0,Physician,13,1
+FDA-AER-1000925,2024-03-01,51,Female,98.1,Oncology,Subcutaneous,476.5,57,8,0.44,0,0,Pharmacist,14,0
+FDA-AER-1000926,2024-03-01,78,Male,104.7,Oncology,Oral,455.8,102,2,0.46,0,0,Pharmacist,30,1
+FDA-AER-1000927,2024-03-01,70,Female,53.3,Immunosuppressant,Intravenous,202.0,12,0,0.88,0,0,Consumer,27,1
+FDA-AER-1000928,2024-03-01,34,Female,91.0,Cardiovascular,Intravenous,480.0,106,3,0.21,0,0,Physician,14,1
+FDA-AER-1000929,2024-03-01,38,Female,100.9,CNS / Neurological,Intravenous,180.1,74,1,0.11,0,0,Consumer,26,0
+FDA-AER-1000930,2024-03-01,34,Female,77.6,Immunosuppressant,Subcutaneous,71.4,79,1,0.46,0,0,Consumer,19,0
+FDA-AER-1000931,2024-03-01,27,Female,58.1,Oncology,Intravenous,463.2,100,2,0.19,0,0,Pharmacist,10,0
+FDA-AER-1000932,2024-03-01,57,Male,101.3,Immunosuppressant,Oral,217.8,37,2,0.03,0,0,Consumer,18,0
+FDA-AER-1000933,2024-03-01,30,Male,67.1,CNS / Neurological,Intravenous,80.0,115,5,0.71,0,0,Physician,22,1
+FDA-AER-1000934,2024-03-01,19,Male,87.8,CNS / Neurological,Oral,463.2,32,4,0.83,0,0,Pharmacist,28,0
+FDA-AER-1000935,2024-03-01,57,Male,76.8,CNS / Neurological,Subcutaneous,112.2,29,1,0.24,0,0,Consumer,17,0
+FDA-AER-1000936,2024-03-01,29,Female,94.5,Immunosuppressant,Intravenous,315.2,28,3,0.96,0,0,Physician,21,1
+FDA-AER-1000937,2024-03-01,75,Female,78.3,Analgesic,Subcutaneous,443.5,84,8,0.16,1,1,Consumer,15,1
+FDA-AER-1000938,2024-03-01,80,Female,78.2,Oncology,Oral,377.8,28,1,0.46,1,0,Pharmacist,12,1
+FDA-AER-1000939,2024-03-01,65,Female,80.9,CNS / Neurological,Oral,194.5,63,1,0.67,0,0,Pharmacist,14,0
+FDA-AER-1000940,2024-03-01,65,Female,105.3,Cardiovascular,Oral,158.1,98,4,0.72,0,1,Physician,9,0
+FDA-AER-1000941,2024-03-01,76,Male,84.2,Antibiotic,Subcutaneous,291.9,67,4,0.15,0,0,Pharmacist,12,1
+FDA-AER-1000942,2024-03-01,68,Female,73.7,Antibiotic,Intravenous,183.8,96,8,0.48,0,0,Consumer,24,1
+FDA-AER-1000943,2024-03-01,34,Female,86.4,Analgesic,Intravenous,285.8,19,5,0.64,1,0,Physician,13,1
+FDA-AER-1000944,2024-03-01,55,Male,106.5,Oncology,Subcutaneous,82.6,90,2,0.88,0,0,Pharmacist,22,0
+FDA-AER-1000945,2024-03-01,64,Female,103.2,Analgesic,Subcutaneous,67.7,51,1,0.11,0,0,Consumer,11,0
+FDA-AER-1000946,2024-03-01,50,Male,72.2,Antibiotic,Intravenous,72.1,48,0,0.79,1,0,Physician,14,0
+FDA-AER-1000947,2024-03-01,49,Female,62.6,Immunosuppressant,Oral,250.2,119,6,0.33,0,0,Physician,15,1
+FDA-AER-1000948,2024-03-01,55,Male,78.2,Cardiovascular,Intravenous,335.3,47,3,0.76,0,0,Physician,27,1
+FDA-AER-1000949,2024-03-01,23,Female,58.6,Antibiotic,Oral,589.8,80,3,0.33,0,0,Physician,12,0
+FDA-AER-1000950,2024-03-01,36,Male,94.4,Cardiovascular,Oral,281.3,52,6,0.38,1,0,Consumer,11,1
+FDA-AER-1000951,2024-03-01,24,Female,73.5,Cardiovascular,Subcutaneous,110.1,86,2,0.88,0,0,Pharmacist,2,0
+FDA-AER-1000952,2024-03-01,58,Female,98.6,Antibiotic,Oral,121.1,111,1,0.92,1,0,Consumer,7,0
+FDA-AER-1000953,2024-03-01,39,Male,98.0,Cardiovascular,Oral,594.9,37,6,0.84,0,0,Physician,28,0
+FDA-AER-1000954,2024-03-01,40,Male,90.6,Cardiovascular,Oral,185.0,117,0,0.19,0,0,Consumer,7,0
+FDA-AER-1000955,2024-03-01,33,Female,93.5,Immunosuppressant,Intravenous,290.7,104,3,0.89,1,1,Pharmacist,26,0
+FDA-AER-1000956,2024-03-01,52,Male,81.7,Immunosuppressant,Subcutaneous,549.8,120,2,0.74,0,0,Consumer,18,0
+FDA-AER-1000957,2024-03-01,39,Male,50.9,Cardiovascular,Oral,491.6,44,5,0.4,0,0,Physician,11,1
+FDA-AER-1000958,2024-03-01,77,Male,83.1,Cardiovascular,Oral,365.2,77,1,0.32,0,0,Pharmacist,5,0
+FDA-AER-1000959,2024-03-01,41,Female,88.2,Cardiovascular,Oral,448.5,19,1,0.63,0,0,Pharmacist,13,0
+FDA-AER-1000960,2024-03-01,74,Male,51.1,CNS / Neurological,Intravenous,169.3,89,4,0.63,1,0,Consumer,30,1
+FDA-AER-1000961,2024-03-01,83,Male,104.9,Antibiotic,Intravenous,106.0,116,8,0.66,1,0,Consumer,13,1
+FDA-AER-1000962,2024-03-01,77,Female,73.5,Cardiovascular,Intravenous,56.2,17,5,0.63,0,0,Physician,24,0
+FDA-AER-1000963,2024-03-01,63,Female,65.0,Cardiovascular,Subcutaneous,323.3,66,0,0.93,0,0,Pharmacist,26,0
+FDA-AER-1000964,2024-03-01,24,Female,92.4,Oncology,Oral,179.3,35,7,0.32,0,0,Physician,7,0
+FDA-AER-1000965,2024-03-01,71,Male,95.7,Cardiovascular,Intravenous,348.2,91,0,0.76,0,0,Pharmacist,30,1
+FDA-AER-1000966,2024-03-01,44,Male,106.8,Immunosuppressant,Subcutaneous,311.9,12,5,0.92,0,0,Consumer,6,0
+FDA-AER-1000967,2024-03-01,55,Male,78.4,Antibiotic,Oral,28.3,40,8,0.05,0,0,Physician,7,1
+FDA-AER-1000968,2024-03-01,50,Female,63.3,CNS / Neurological,Oral,394.6,71,3,0.26,0,0,Physician,4,0
+FDA-AER-1000969,2024-03-01,39,Female,94.9,Antibiotic,Intravenous,421.4,97,6,0.1,0,0,Pharmacist,20,1
+FDA-AER-1000970,2024-03-01,85,Male,89.8,Analgesic,Subcutaneous,386.4,73,8,0.14,1,0,Pharmacist,7,1
+FDA-AER-1000971,2024-03-01,31,Female,53.8,Cardiovascular,Intravenous,486.1,116,3,0.9,0,0,Physician,29,1
+FDA-AER-1000972,2024-03-01,33,Male,100.6,Oncology,Intravenous,21.1,56,3,0.38,0,1,Consumer,22,0
+FDA-AER-1000973,2024-03-01,68,Male,91.1,Cardiovascular,Oral,304.0,116,1,0.12,0,0,Pharmacist,20,1
+FDA-AER-1000974,2024-03-01,23,Male,63.1,Cardiovascular,Oral,304.4,16,2,0.36,0,0,Pharmacist,5,1
+FDA-AER-1000975,2024-03-01,21,Male,89.3,Immunosuppressant,Oral,60.4,58,3,0.33,0,0,Consumer,2,0
+FDA-AER-1000976,2024-03-01,32,Female,107.6,Oncology,Oral,208.3,52,2,0.79,0,0,Pharmacist,3,0
+FDA-AER-1000977,2024-03-01,31,Male,71.6,CNS / Neurological,Subcutaneous,205.0,67,6,0.28,1,0,Physician,13,1
+FDA-AER-1000978,2024-03-01,55,Female,58.6,Cardiovascular,Intravenous,369.3,41,0,0.25,0,0,Physician,22,1
+FDA-AER-1000979,2024-03-01,41,Male,77.8,Oncology,Oral,488.0,108,6,0.79,0,1,Pharmacist,9,1
+FDA-AER-1000980,2024-03-01,20,Female,56.1,Immunosuppressant,Oral,553.6,20,7,0.1,0,0,Physician,12,1
+FDA-AER-1000981,2024-03-01,51,Female,53.9,CNS / Neurological,Subcutaneous,458.3,89,2,0.57,0,0,Physician,5,1
+FDA-AER-1000982,2024-03-01,67,Female,102.2,CNS / Neurological,Intravenous,141.7,37,7,0.74,0,0,Physician,24,1
+FDA-AER-1000983,2024-03-01,34,Male,104.2,Analgesic,Intravenous,386.1,84,7,0.26,0,0,Consumer,19,1
+FDA-AER-1000984,2024-03-01,84,Male,73.5,Immunosuppressant,Subcutaneous,459.8,105,1,0.91,0,0,Physician,7,1
+FDA-AER-1000985,2024-03-01,85,Female,77.0,Oncology,Subcutaneous,506.6,81,0,0.28,0,0,Physician,15,0
+FDA-AER-1000986,2024-03-01,31,Male,95.8,Oncology,Subcutaneous,260.5,6,7,0.97,0,0,Consumer,27,0
+FDA-AER-1000987,2024-03-01,60,Male,72.2,Oncology,Intravenous,284.6,72,8,0.03,0,0,Physician,1,1
+FDA-AER-1000988,2024-03-01,47,Female,55.6,Cardiovascular,Subcutaneous,323.2,29,8,0.07,0,0,Physician,3,0
+FDA-AER-1000989,2024-03-01,75,Male,88.2,Antibiotic,Oral,533.3,65,6,0.12,0,0,Consumer,9,1
+FDA-AER-1000990,2024-03-01,30,Female,63.8,Cardiovascular,Oral,334.3,63,5,0.31,0,0,Consumer,21,0
+FDA-AER-1000991,2024-03-01,27,Male,108.5,Analgesic,Intravenous,473.3,8,7,0.86,0,0,Consumer,24,0
+FDA-AER-1000992,2024-03-01,20,Male,82.7,CNS / Neurological,Oral,173.0,38,5,0.03,0,0,Consumer,28,1
+FDA-AER-1000993,2024-03-01,72,Male,85.9,Cardiovascular,Intravenous,464.5,111,8,0.73,0,0,Pharmacist,14,0
+FDA-AER-1000994,2024-03-01,66,Male,80.6,Immunosuppressant,Subcutaneous,523.5,70,5,0.34,0,0,Pharmacist,22,1
+FDA-AER-1000995,2024-03-01,63,Female,77.3,Oncology,Intravenous,314.3,39,0,0.28,0,0,Consumer,24,1
+FDA-AER-1000996,2024-03-01,82,Female,106.9,CNS / Neurological,Intravenous,400.2,95,6,0.77,0,0,Consumer,13,0
+FDA-AER-1000997,2024-03-01,69,Female,89.5,Oncology,Intravenous,321.1,117,2,0.06,1,0,Consumer,15,0
+FDA-AER-1000998,2024-03-01,63,Female,55.9,Analgesic,Subcutaneous,474.7,28,1,0.95,1,1,Physician,29,1
+FDA-AER-1000999,2024-03-01,32,Male,108.1,Analgesic,Oral,94.2,71,5,0.4,1,0,Consumer,26,0
+FDA-AER-1001000,2024-03-01,77,Female,66.6,Antibiotic,Oral,313.0,64,3,0.81,1,0,Consumer,17,0

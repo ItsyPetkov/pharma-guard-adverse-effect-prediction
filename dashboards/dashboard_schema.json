@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PowerBIPharmaSafetySchema",
+  "type": "object",
+  "properties": {
+    "report_id": {
+      "type": "string"
+    },
+    "patient_age": {
+      "type": "integer"
+    },
+    "patient_sex": {
+      "type": "string",
+      "enum": ["Male", "Female", "Unknown"]
+    },
+    "drug_class": {
+      "type": "string"
+    },
+    "route_of_administration": {
+      "type": "string"
+    },
+    "daily_dose_mg": {
+      "type": "number"
+    },
+    "treatment_duration_days": {
+      "type": "integer"
+    },
+    "concomitant_drug_count": {
+      "type": "integer"
+    },
+    "interaction_risk_index": {
+      "type": "number"
+    },
+    "time_to_onset_days": {
+      "type": "integer"
+    },
+    "serious_adverse_event": {
+      "type": "integer",
+      "enum": [0, 1]
+    },
+    "polypharmacy_tier": {
+      "type": "string"
+    },
+    "clinical_vulnerability_profile": {
+      "type": "string"
+    },
+    "dose_intensity_per_kg": {
+      "type": "number"
+    }
+  },
+  "required": [
+    "report_id",
+    "drug_class",
+    "daily_dose_mg",
+    "serious_adverse_event"
+  ]
+}

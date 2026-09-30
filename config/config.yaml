@@ -1,0 +1,49 @@
+project:
+  name: "PharmaGuard-ADR-Prediction"
+  version: "1.0.0"
+  random_state: 42
+
+data:
+  azure_storage_account: "pharmasafetylake"
+  azure_container: "pharma-adverse-events"
+  azure_synapse_workspace: "pharma-safety-synapse"
+  azure_dataset: "pharma_safety.adverse_events_curated"
+  raw_data_path: "data/raw/pharma_adverse_events.csv"
+  processed_dir: "data/processed/"
+  target_column: "serious_adverse_event"
+
+features:
+  numerical_cols:
+    - "patient_age"
+    - "patient_weight_kg"
+    - "daily_dose_mg"
+    - "treatment_duration_days"
+    - "concomitant_drug_count"
+    - "interaction_risk_index"
+    - "time_to_onset_days"
+  categorical_cols:
+    - "patient_sex"
+    - "drug_class"
+    - "route_of_administration"
+    - "renal_impairment_flag"
+    - "hepatic_impairment_flag"
+    - "reporting_source"
+
+model:
+  selected_algorithm: "random_forest"
+  cross_validation_folds: 3
+  scoring_metric: "roc_auc"
+  models_dir: "models/artifacts/"
+
+cloud:
+  snowflake:
+    account: "azure_eastus2.snowflakecomputing.com"
+    database: "PHARMA_SAFETY_DB"
+    schema: "SAFETY_ANALYTICS"
+    warehouse: "COMPUTE_WH"
+  databricks:
+    server_hostname: "adb-1234567890123456.7.azuredatabricks.net"
+    http_path: "/sql/1.0/endpoints/pharma_endpoint"
+  azure:
+    storage_account_url: "https://pharmasafetylake.blob.core.windows.net"
+    adls_file_system: "pharma-datalake"
